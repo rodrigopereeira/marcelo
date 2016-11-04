@@ -3,7 +3,7 @@
 <!-- container -->
 <div class="container">
   <div class="row">
-    <div class="col-md-3" style="padding: 20px 20px;">
+    <div class="col-md-3 visible-lg visible-md" style="padding: 20px 20px; background-color:#222">
 
       <?php get_sidebar('sidebar'); ?>
     </div>
@@ -190,16 +190,7 @@
 
 
 
-    <div class="bg-container">
 
-
-
-
-
-        <!-- end right container -->
-
-        <div class="clearfix"></div>
-    </div>
 
 
     <div class="line-footer"></div>
