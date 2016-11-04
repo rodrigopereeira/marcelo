@@ -1,0 +1,2 @@
+<?php
+ if ( ! class_exists( 'Redux_Validation_str_replace' ) ) { class Redux_Validation_str_replace { function __construct( $parent, $field, $value, $current ) { $this->parent = $parent; $this->field = $field; $this->value = $value; $this->current = $current; $this->validate(); } function validate() { $this->value = str_replace( $this->field['str']['search'], $this->field['str']['replacement'], $this->value ); } } }

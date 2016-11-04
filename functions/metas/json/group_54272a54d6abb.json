@@ -1,0 +1,45 @@
+{
+    "key": "group_54272a54d6abb",
+    "title": "Widget Publicidades",
+    "fields": [
+        {
+            "key": "field_54272a8875193",
+            "label": "C\u00f3digo Publicidade",
+            "name": "codigo_publicidade",
+            "type": "textarea",
+            "instructions": "Insira o c\u00f3digo da publicidade \r\n<br><small>(caso o modo responsivo do site esteja ativo, \u00e9 aconselh\u00e1vel inserir publicidades responsivas, ou publicidades em imagens)<\/small>",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": 8,
+            "new_lines": "",
+            "readonly": 0,
+            "disabled": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "widget",
+                "operator": "==",
+                "value": "foxtemaswidgetadsense"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1440003846
+}

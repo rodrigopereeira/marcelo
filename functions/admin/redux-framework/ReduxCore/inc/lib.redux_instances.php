@@ -1,0 +1,2 @@
+<?php
+ if ( ! function_exists( 'get_redux_instance' ) ) { function get_redux_instance( $opt_name ) { return ReduxFrameworkInstances::get_instance( $opt_name ); } } if ( ! function_exists( 'get_all_redux_instances' ) ) { function get_all_redux_instances() { return ReduxFrameworkInstances::get_all_instances(); } }

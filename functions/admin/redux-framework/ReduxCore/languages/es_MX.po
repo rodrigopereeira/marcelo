@@ -1,0 +1,5293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Onixxx v1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/ReduxFramework/ReduxFramework/issues\n"
+"POT-Creation-Date: 2014-05-29 18:10:37+00:00\n"
+"PO-Revision-Date: 2014-09-27 03:46:04+0000\n"
+"Last-Translator: Dionizio Bonfim Bach <translations@djio.com.br>\n"
+"Language-Team: Spanish (Mexico) (http://www.transifex.com/projects/p/redux-framework/language/es_MX/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ReduxCore\n"
+"X-Textdomain-Support: yes"
+
+#: functions/admin/redux-framework/class.redux-plugin.php:417
+#@ redux-framework
+msgid "Activate Demo Mode"
+msgstr "Activar Modo Demostrativo"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+#@ redux-framework
+msgid "Active"
+msgstr "Activo"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:114
+#: functions/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: functions/metas/admin/field-group.php:757
+#: functions/metas/admin/field-group.php:765
+#: functions/metas/admin/field-group.php:779
+#: functions/metas/admin/field-group.php:786
+#: functions/metas/admin/field-group.php:801
+#: functions/metas/admin/field-group.php:811
+#: functions/metas/fields/file.php:184
+#: functions/metas/fields/image.php:175
+#: functions/metas/pro/fields/gallery.php:562
+#@ redux-framework
+#@ acf
+msgid "All"
+msgstr "Todo"
+
+#: functions/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:505
+#@ redux-framework
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "¿Estás seguro? La restauración eliminará todos los valores personalizados."
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:1815
+#@ redux-framework
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr "¿Estás seguro? La restauración eliminará todos los valores personalizados en esta sección."
+
+#: functions/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:470
+#: functions/admin/redux-framework/ReduxCore/framework.php:1807
+#@ redux-framework
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "¿Estás seguro? La restauración eliminará todos los valores personalizados."
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:203
+#@ redux-framework
+msgid "Background Attachment"
+msgstr "Adjunto del fondo"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:223
+#@ redux-framework
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:141
+#@ redux-framework
+msgid "Background Repeat"
+msgstr "Repetición del fondo"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:141
+#: functions/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+#@ redux-framework
+msgid "Bottom"
+msgstr "Todo"
+
+#: functions/admin/redux-framework/class.redux-plugin.php:306
+#@ redux-framework
+msgid "Click here to activate the sample config file."
+msgstr "Da clic aquí para activar el archivo de configuración ejemplo."
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:167
+#: functions/metas/pro/fields/gallery.php:485
+#@ redux-framework
+#@ acf
+msgid "Close"
+msgstr "Cerrar"
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:104
+#@ redux-framework
+msgid "Copy"
+msgstr "Copiar"
+
+#: functions/admin/redux-framework/class.redux-plugin.php:415
+#@ redux-framework
+msgid "Deactivate Demo Mode"
+msgstr "Desactivar Modo Demostrativo"
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:2101
+#: functions/metas/fields/color_picker.php:95
+#@ redux-framework
+#@ acf
+msgid "Default"
+msgstr "Por Defecto"
+
+#: functions/metas/admin/views/field-group-field.php:57
+#: functions/metas/pro/fields/flexible-content.php:496
+#@ acf
+msgid "Delete"
+msgstr "Eliminar"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:204
+#@ redux-framework
+msgid "Description"
+msgstr "Descripción"
+
+#: functions/admin/redux-framework/ReduxCore/inc/class.redux_functions.php:253
+#@ redux-framework
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: functions/admin/options/sample-config.php:1273
+#: functions/admin/options/sample-config.php:1498
+#: functions/admin/redux-framework/class.redux-plugin.php:410
+#@ redux-framework-demo
+#@ redux-framework
+msgid "Documentation"
+msgstr "Documentación"
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:158
+#@ redux-framework
+msgid "Email address"
+msgstr "Correo electrónico"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:465
+#: functions/metas/fields/google-map.php:209
+#@ redux-framework
+#@ acf
+msgid "Height"
+msgstr "Altura"
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:157
+#@ redux-framework
+msgid "If you'd like to keep up to with all things Redux, please subscribe to our newsletter"
+msgstr "Si te gustaría mantenerte al tanto con las novedades en Redux, por favor suscríbete a nuestro boletín"
+
+#: functions/admin/options/sample-config.php:1464
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:140
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:149
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:150
+#: functions/metas/admin/settings-export.php:54
+#: functions/metas/admin/views/settings-export-generate.php:9
+#: functions/metas/admin/views/settings-export.php:3
+#@ redux-framework-demo
+#@ redux-framework
+#@ acf
+msgid "Import / Export"
+msgstr "Importar / Exportar"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:148
+#: functions/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+#@ redux-framework
+msgid "Left"
+msgstr "Izquierda"
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:156
+#@ redux-framework
+msgid "Like Redux?"
+msgstr "¿Te gusta Redux?"
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:157
+#@ redux-framework
+msgid "Newsletter"
+msgstr "Boletín"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:44
+#@ redux-framework
+msgid "Off"
+msgstr "Apagado"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/switch/field_switch.php:41
+#@ redux-framework
+msgid "On"
+msgstr "Encendido"
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:175
+#: functions/admin/redux-framework/ReduxCore/framework.php:179
+#: functions/metas/admin/field-group.php:244
+#: functions/metas/pro/api/api-options-page.php:22
+#: functions/metas/pro/api/api-options-page.php:23
+#@ redux-framework
+#@ acf
+msgid "Options"
+msgstr "Opciones"
+
+#: functions/admin/redux-framework/ReduxCore/inc/debug.php:41
+#: functions/admin/redux-framework/ReduxCore/inc/debug.php:69
+#: functions/admin/redux-framework/ReduxCore/inc/debug.php:76
+#: functions/admin/redux-framework/ReduxCore/inc/debug.php:77
+#@ redux-framework
+msgid "Options Object"
+msgstr "Objeto de Opciones"
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:171
+#, php-format
+#@ redux-framework
+msgid "Options panel created using %1$s"
+msgstr "Panel de opciones creado utilizando %1$s"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/password/field_password.php:62
+#: functions/metas/fields/password.php:36
+#@ redux-framework
+#@ acf
+msgid "Password"
+msgstr "Contraseña"
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:155
+#@ redux-framework
+msgid "Redux Extensions"
+msgstr "Extensiones de Redux"
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:171
+#@ redux-framework
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: functions/admin/redux-framework/class.redux-plugin.php:306
+#@ redux-framework
+msgid "Redux Framework has an embedded demo."
+msgstr "Redux Framework tiene un demostrativo integrado."
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:321
+#: functions/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:166
+#: functions/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: functions/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: functions/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:190
+#@ redux-framework
+msgid "Remove"
+msgstr "Eliminar"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:134
+#: functions/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+#@ redux-framework
+msgid "Right"
+msgstr "Derecha"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:456
+#@ redux-framework
+msgid "Size"
+msgstr "Tamaño"
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:158
+#@ redux-framework
+msgid "Subscribe"
+msgstr "Suscribir"
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:1255
+#: functions/admin/redux-framework/ReduxCore/framework.php:1256
+#: functions/admin/redux-framework/ReduxCore/framework.php:3400
+#: functions/admin/redux-framework/ReduxCore/framework.php:3479
+#@ redux-framework
+msgid "System Info"
+msgstr "Información del Sistema"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:365
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:366
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:367
+#@ redux-framework
+msgid "Text Align"
+msgstr "Alinear Texto"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:388
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:389
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:390
+#@ redux-framework
+msgid "Text Transform"
+msgstr "Transformar Texto"
+
+#: functions/admin/redux-framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+#@ redux-framework
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Este campo no puede quedar vacío. Por favor introduce un valor."
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: functions/metas/admin/field-groups.php:269
+#@ redux-framework
+#@ default
+msgid "Title"
+msgstr "Título"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:207
+#@ redux-framework
+msgid "URL"
+msgstr "URL"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:314
+#: functions/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:159
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:188
+#@ redux-framework
+msgid "Upload"
+msgstr "Subir"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/password/field_password.php:63
+#@ redux-framework
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+#@ redux-framework
+msgid "Width"
+msgstr "Ancho"
+
+#: functions/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:504
+#@ redux-framework
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Tienes cambios que no han sido salvados. ¿Deseas salvarlos ahora?"
+
+#: functions/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:469
+#: functions/admin/redux-framework/ReduxCore/framework.php:1799
+#@ redux-framework
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Tienes cambios que no han sido salvados. ¿Deseas salvarlos ahora?"
+
+#: functions/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:506
+#@ redux-framework
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr "Tus configuraciones actuales serán reemplazadas con los valores que se presentan. ¿Deseas continuar?"
+
+#: functions/admin/redux-framework/ReduxCore/extensions/customizer/extension_customizer.php:471
+#: functions/admin/redux-framework/ReduxCore/framework.php:1823
+#@ redux-framework
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr "Tus configuraciones actuales serán reemplazadas con los valores que se presentan. ¿Deseas continuar?"
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:156
+#@ redux-framework
+msgid "donation"
+msgstr "donación"
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:155
+#@ redux-framework
+msgid "extensions directory"
+msgstr "carpeta de extensiones"
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:156
+#@ redux-framework
+msgid "leave us a favorable review on WordPress.org"
+msgstr "comparte una reseña favorable en WordPress.org"
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:153
+#@ redux-framework
+msgid "our documentation"
+msgstr "nuestra documentación"
+
+#: functions/admin/options/barebones-config.php:54
+#: functions/admin/options/sample-config.php:240
+#@ redux-framework-demo
+msgid "Home Settings"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:55
+#: functions/admin/options/sample-config.php:241
+#@ redux-framework-demo
+msgid "Redux Framework was created with the developer in mind. It allows for any theme developer to have an advanced theme panel with most of the features a developer would need. For more information check out the Github repo at: <a href=\"https://github.com/ReduxFramework/Redux-Framework\">https://github.com/ReduxFramework/Redux-Framework</a>"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:63
+#: functions/admin/options/sample-config.php:249
+#@ redux-framework-demo
+msgid "Web Fonts"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:66
+#: functions/admin/options/sample-config.php:252
+#: functions/admin/options/sample-config.php:281
+#@ redux-framework-demo
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:67
+#: functions/admin/options/sample-config.php:253
+#: functions/admin/options/sample-config.php:282
+#: functions/admin/options/sample-config.php:300
+#: functions/admin/options/sample-config.php:308
+#@ redux-framework-demo
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:82
+#: functions/admin/options/options-init.php:402
+#: functions/admin/options/sample-config.php:1509
+#@ redux-framework-demo
+#@ foxtemas-panel
+msgid "Theme Information 1"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:83
+#: functions/admin/options/barebones-config.php:89
+#: functions/admin/options/options-init.php:403
+#: functions/admin/options/options-init.php:409
+#: functions/admin/options/sample-config.php:1510
+#: functions/admin/options/sample-config.php:1516
+#@ redux-framework-demo
+#@ foxtemas-panel
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:88
+#: functions/admin/options/options-init.php:408
+#: functions/admin/options/sample-config.php:1515
+#@ redux-framework-demo
+#@ foxtemas-panel
+msgid "Theme Information 2"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:93
+#: functions/admin/options/options-init.php:413
+#: functions/admin/options/sample-config.php:1520
+#@ redux-framework-demo
+#@ foxtemas-panel
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:113
+#: functions/admin/options/barebones-config.php:114
+#: functions/admin/options/sample-config.php:1540
+#: functions/admin/options/sample-config.php:1541
+#@ redux-framework-demo
+msgid "Sample Options"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:211
+#: functions/admin/options/sample-config.php:1641
+#, php-format
+#@ redux-framework-demo
+msgid "<p>Did you know that Redux sets a global variable for you? To access any of your saved options from within your code you can use your global variable: <strong>$%1$s</strong></p>"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:213
+#: functions/admin/options/sample-config.php:1643
+#@ redux-framework-demo
+msgid "<p>This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: functions/admin/options/barebones-config.php:217
+#: functions/admin/options/sample-config.php:1647
+#@ redux-framework-demo
+msgid "<p>This text is displayed below the options panel. It isn't required, but more info is always better! The footer_text field accepts all HTML.</p>"
+msgstr ""
+
+#: functions/admin/options/options-init.php:124
+#: functions/admin/options/sample-config.php:114
+#@ foxtemas-panel
+#@ redux-framework-demo
+msgid "Section via hook"
+msgstr ""
+
+#: functions/admin/options/options-init.php:125
+#: functions/admin/options/sample-config.php:115
+#@ foxtemas-panel
+#@ redux-framework-demo
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options.</p>"
+msgstr ""
+
+#: functions/admin/options/options-init.php:218
+#: functions/admin/options/sample-config.php:193
+#, php-format
+#@ foxtemas-panel
+#@ redux-framework-demo
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: functions/admin/options/options-init.php:226
+#: functions/admin/options/options-init.php:230
+#: functions/admin/options/sample-config.php:200
+#: functions/admin/options/sample-config.php:203
+#@ default
+msgid "Current theme preview"
+msgstr ""
+
+#: functions/admin/options/options-init.php:240
+#: functions/admin/options/sample-config.php:210
+#, php-format
+#@ foxtemas-panel
+#@ redux-framework-demo
+msgid "By %s"
+msgstr ""
+
+#: functions/admin/options/options-init.php:243
+#: functions/admin/options/sample-config.php:211
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:150
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:261
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:293
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:412
+#, php-format
+#@ foxtemas-panel
+#@ redux-framework-demo
+#@ redux-framework
+msgid "Version %s"
+msgstr ""
+
+#: functions/admin/options/options-init.php:246
+#: functions/admin/options/sample-config.php:212
+#: functions/metas/admin/views/field-group-options.php:120
+#@ foxtemas-panel
+#@ redux-framework-demo
+#@ acf
+msgid "Tags"
+msgstr ""
+
+#: functions/admin/options/options-init.php:256
+#: functions/admin/options/sample-config.php:217
+#, php-format
+#@ default
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: functions/admin/options/options-init.php:256
+#: functions/admin/options/sample-config.php:217
+#@ foxtemas-panel
+#@ redux-framework-demo
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: functions/admin/options/options-init.php:321
+#@ foxtemas-panel
+msgid "Importar / Exportar"
+msgstr ""
+
+#: functions/admin/options/options-init.php:322
+#@ foxtemas-panel
+msgid "Importar e Exportar as configurações através de um arquivo, texto, ou URL."
+msgstr ""
+
+#: functions/admin/options/options-init.php:343
+#@ foxtemas-panel
+msgid "Template Informações"
+msgstr ""
+
+#: functions/admin/options/options-init.php:344
+#@ foxtemas-panel
+msgid "Informações do Template"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:262
+#@ redux-framework-demo
+msgid "Section Show"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:263
+#: functions/admin/options/sample-config.php:270
+#@ redux-framework-demo
+msgid "With the \"section\" field you can create indent option sections."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:269
+#@ redux-framework-demo
+msgid "Media Options"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:278
+#@ redux-framework-demo
+msgid "Media w/ URL"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:298
+#@ redux-framework-demo
+msgid "Media w/o URL"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:299
+#: functions/admin/options/sample-config.php:307
+#@ redux-framework-demo
+msgid "This represents the minimalistic view. It does not have the preview box or the display URL in an input box. "
+msgstr ""
+
+#: functions/admin/options/sample-config.php:306
+#@ redux-framework-demo
+msgid "Media No Preview"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:313
+#: functions/admin/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+#@ so-panels
+#@ redux-framework
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:314
+#@ so-panels
+msgid "Create a new Gallery by selecting existing or uploading new images using the WordPress native uploader"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:315
+#: functions/admin/options/sample-config.php:668
+#: functions/admin/options/sample-config.php:679
+#: functions/admin/options/sample-config.php:696
+#: functions/admin/options/sample-config.php:791
+#: functions/admin/options/sample-config.php:805
+#: functions/admin/options/sample-config.php:814
+#: functions/admin/options/sample-config.php:821
+#: functions/admin/options/sample-config.php:834
+#: functions/admin/options/sample-config.php:843
+#: functions/admin/options/sample-config.php:852
+#: functions/admin/options/sample-config.php:874
+#: functions/admin/options/sample-config.php:887
+#: functions/admin/options/sample-config.php:896
+#: functions/admin/options/sample-config.php:905
+#: functions/admin/options/sample-config.php:914
+#: functions/admin/options/sample-config.php:924
+#: functions/admin/options/sample-config.php:940
+#: functions/admin/options/sample-config.php:948
+#: functions/admin/options/sample-config.php:969
+#: functions/admin/options/sample-config.php:977
+#: functions/admin/options/sample-config.php:985
+#: functions/admin/options/sample-config.php:1000
+#: functions/admin/options/sample-config.php:1008
+#: functions/admin/options/sample-config.php:1042
+#: functions/admin/options/sample-config.php:1055
+#: functions/admin/options/sample-config.php:1075
+#: functions/admin/options/sample-config.php:1091
+#: functions/admin/options/sample-config.php:1125
+#: functions/admin/options/sample-config.php:1134
+#: functions/admin/options/sample-config.php:1142
+#: functions/admin/options/sample-config.php:1151
+#: functions/admin/options/sample-config.php:1159
+#: functions/admin/options/sample-config.php:1168
+#: functions/admin/options/sample-config.php:1176
+#: functions/admin/options/sample-config.php:1185
+#: functions/admin/options/sample-config.php:1193
+#: functions/admin/options/sample-config.php:1202
+#: functions/admin/options/sample-config.php:1212
+#: functions/admin/options/sample-config.php:1220
+#: functions/admin/options/sample-config.php:1229
+#: functions/admin/options/sample-config.php:1237
+#: functions/admin/options/sample-config.php:1246
+#: functions/admin/options/sample-config.php:1296
+#: functions/admin/options/sample-config.php:1307
+#: functions/admin/options/sample-config.php:1322
+#@ redux-framework-demo
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:320
+#@ redux-framework-demo
+msgid "Slider Example 1"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:321
+#@ redux-framework-demo
+msgid "This slider displays the value as a label."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:322
+#@ redux-framework-demo
+msgid "Slider description. Min: 1, max: 500, step: 1, default value: 250"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:332
+#@ redux-framework-demo
+msgid "Slider Example 2 with Steps (5)"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:333
+#@ redux-framework-demo
+msgid "This example displays the value in a text box"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:334
+#@ redux-framework-demo
+msgid "Slider description. Min: 0, max: 300, step: 5, default value: 75"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:344
+#@ redux-framework-demo
+msgid "Slider Example 3 with two sliders"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:345
+#@ redux-framework-demo
+msgid "This example displays the values in select boxes"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:346
+#@ redux-framework-demo
+msgid "Slider description. Min: 0, max: 500, step: 5, slider 1 default value: 100, slider 2 default value: 300"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:360
+#@ redux-framework-demo
+msgid "Slider Example 4 with float values"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:361
+#@ redux-framework-demo
+msgid "This example displays float values"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:362
+#@ redux-framework-demo
+msgid "Slider description. Min: 0, max: 1, step: .1, default value: .5"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:373
+#@ redux-framework-demo
+msgid "JQuery UI Spinner Example 1"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:374
+#@ redux-framework-demo
+msgid "JQuery UI spinner description. Min:20, max: 100, step:20, default value: 40"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:383
+#@ redux-framework-demo
+msgid "Switch On"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:384
+#: functions/admin/options/sample-config.php:391
+#@ redux-framework-demo
+msgid "Look, it's on!"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:390
+#@ redux-framework-demo
+msgid "Switch Off"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:398
+#@ redux-framework-demo
+msgid "Switch - Nested Children, Enable to show"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:399
+#@ redux-framework-demo
+msgid "Look, it's on! Also hidden child elements!"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:408
+#@ redux-framework-demo
+msgid "Switch - This and the next switch required for patterns to show"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:409
+#: functions/admin/options/sample-config.php:418
+#@ redux-framework-demo
+msgid "Also called a \"fold\" parent."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:410
+#: functions/admin/options/sample-config.php:419
+#@ redux-framework-demo
+msgid "Items set with a fold to this ID will hide unless this is set to the appropriate value."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:417
+#@ redux-framework-demo
+msgid "Switch2 - Enable the above switch and this one for patterns to show"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:430
+#@ redux-framework-demo
+msgid "Images Option (with pattern=>true)"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:431
+#@ redux-framework-demo
+msgid "Select a background pattern."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:480
+#@ redux-framework-demo
+msgid "Slides Options"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:481
+#@ redux-framework-demo
+msgid "Unlimited slides with drag and drop sortings."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:482
+#@ redux-framework-demo
+msgid "This field will store all slides values into a multidimensional array to use into a foreach loop."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:484
+#@ redux-framework-demo
+msgid "This is a title"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:485
+#@ redux-framework-demo
+msgid "Description Here"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:486
+#@ redux-framework-demo
+msgid "Give us a link!"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:493
+#@ redux-framework-demo
+msgid "Preset"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:494
+#: functions/admin/options/sample-config.php:496
+#@ redux-framework-demo
+msgid "This allows you to set a json string or array to override multiple preferences in your theme."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:505
+#@ redux-framework-demo
+msgid "Typography"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:521
+#@ redux-framework-demo
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:539
+#@ redux-framework-demo
+msgid "General Settings"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:545
+#@ redux-framework-demo
+msgid "Main Layout"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:546
+#@ redux-framework-demo
+msgid "Select main content and sidebar alignment. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:561
+#@ redux-framework-demo
+msgid "Tracking Code"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:562
+#@ redux-framework-demo
+msgid "Paste your Google Analytics (or other) tracking code here. This will be added into the footer template of your theme."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:569
+#@ redux-framework-demo
+msgid "CSS Code"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:570
+#@ redux-framework-demo
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:601
+#@ redux-framework-demo
+msgid "Footer Text"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:602
+#@ redux-framework-demo
+msgid "You can use the following shortcodes in your footer text: [wp-url] [site-url] [theme-url] [login-url] [logout-url] [site-title] [site-tagline] [current-year]"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:617
+#@ redux-framework-demo
+msgid "Styling Options"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:623
+#@ redux-framework-demo
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:624
+#@ redux-framework-demo
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:632
+#@ redux-framework-demo
+msgid "Body Background Color"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:633
+#@ redux-framework-demo
+msgid "Pick a background color for the theme (default: #fff)."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:641
+#@ redux-framework-demo
+msgid "Body Background"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:642
+#@ redux-framework-demo
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:648
+#@ redux-framework-demo
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:649
+#@ redux-framework-demo
+msgid "Pick a background color for the footer (default: #dd9933)."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:656
+#@ redux-framework-demo
+msgid "Color RGBA - BETA"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:657
+#@ redux-framework-demo
+msgid "Gives you the RGBA color. Still quite experimental. Use at your own risk."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:666
+#@ redux-framework-demo
+msgid "Header Gradient Color Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:667
+#: functions/admin/options/sample-config.php:678
+#: functions/admin/options/sample-config.php:694
+#@ redux-framework-demo
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:677
+#@ redux-framework-demo
+msgid "Links Color Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:693
+#@ redux-framework-demo
+msgid "Header Border Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:719
+#@ redux-framework-demo
+msgid "Padding/Margin Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:720
+#@ redux-framework-demo
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:721
+#@ redux-framework-demo
+msgid "You can enable or disable any piece of this field. Top, Right, Bottom, Left, or Units."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:734
+#@ redux-framework-demo
+msgid "Dimensions (Width/Height) Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:735
+#@ redux-framework-demo
+msgid "Allow your users to choose width, height, and/or unit."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:736
+#@ redux-framework-demo
+msgid "You can enable or disable any piece of this field. Width, Height, or Units."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:745
+#@ redux-framework-demo
+msgid "Body Font"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:746
+#@ redux-framework-demo
+msgid "Specify the body font properties."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:758
+#@ redux-framework-demo
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:759
+#@ redux-framework-demo
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:760
+#@ redux-framework-demo
+msgid "This field is even CSS validated!"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:766
+#@ redux-framework-demo
+msgid "Custom HTML"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:767
+#@ redux-framework-demo
+msgid "Just like a text box widget."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:768
+#@ redux-framework-demo
+msgid "This field is even HTML validated!"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:782
+#@ redux-framework-demo
+msgid "Field Validation"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:783
+#@ redux-framework-demo
+msgid "Validate ALL fields within Redux."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:784
+#@ redux-framework-demo
+msgid "<p class=\"description\">This is the Description. Again HTML is allowed2</p>"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:789
+#@ redux-framework-demo
+msgid "Text Option - Email Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:790
+#@ redux-framework-demo
+msgid "This is a little space under the Field Title in the Options table, additional info is good in here."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:803
+#@ redux-framework-demo
+msgid "Text Option with Data Attributes"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:804
+#@ redux-framework-demo
+msgid "You can also pass an options array if you want. Set the default to whatever you like."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:811
+#@ redux-framework-demo
+msgid "Multi Text Option - Color Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:813
+#@ redux-framework-demo
+msgid "If you enter an invalid color it will be removed. Try using the text \"blue\" as a color.  ;)"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:819
+#@ redux-framework-demo
+msgid "Text Option - URL Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:820
+#@ redux-framework-demo
+msgid "This must be a URL."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:832
+#@ redux-framework-demo
+msgid "Text Option - Numeric Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:833
+#@ redux-framework-demo
+msgid "This must be numeric."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:841
+#@ redux-framework-demo
+msgid "Text Option - Comma Numeric Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:842
+#@ redux-framework-demo
+msgid "This must be a comma separated string of numerical values."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:850
+#@ redux-framework-demo
+msgid "Text Option - No Special Chars Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:851
+#@ redux-framework-demo
+msgid "This must be a alpha numeric only."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:859
+#@ redux-framework-demo
+msgid "Text Option - Str Replace Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:860
+#: functions/admin/options/sample-config.php:873
+#: functions/admin/options/sample-config.php:886
+#@ redux-framework-demo
+msgid "You decide."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:861
+#@ redux-framework-demo
+msgid "This field's default value was changed by a filter hook!"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:872
+#@ redux-framework-demo
+msgid "Text Option - Preg Replace Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:885
+#@ redux-framework-demo
+msgid "Text Option - Custom Callback Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:894
+#@ redux-framework-demo
+msgid "Textarea Option - No HTML Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:895
+#@ redux-framework-demo
+msgid "All HTML will be stripped"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:903
+#@ redux-framework-demo
+msgid "Textarea Option - HTML Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:904
+#@ redux-framework-demo
+msgid "HTML Allowed (wp_kses)"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:912
+#@ redux-framework-demo
+msgid "Textarea Option - HTML Validated Custom"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:913
+#@ redux-framework-demo
+msgid "Custom HTML Allowed (wp_kses)"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:922
+#@ redux-framework-demo
+msgid "Textarea Option - JS Validated"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:923
+#@ redux-framework-demo
+msgid "JS will be escaped"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:932
+#@ redux-framework-demo
+msgid "Radio/Checkbox Fields"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:933
+#: functions/admin/options/sample-config.php:1068
+#: functions/admin/options/sample-config.php:1289
+#: functions/admin/options/sample-config.php:1485
+#@ redux-framework-demo
+msgid "<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:938
+#@ redux-framework-demo
+msgid "Checkbox Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:939
+#: functions/admin/options/sample-config.php:947
+#: functions/admin/options/sample-config.php:968
+#: functions/admin/options/sample-config.php:976
+#: functions/admin/options/sample-config.php:984
+#: functions/admin/options/sample-config.php:999
+#: functions/admin/options/sample-config.php:1007
+#: functions/admin/options/sample-config.php:1023
+#: functions/admin/options/sample-config.php:1074
+#: functions/admin/options/sample-config.php:1090
+#: functions/admin/options/sample-config.php:1124
+#: functions/admin/options/sample-config.php:1133
+#: functions/admin/options/sample-config.php:1141
+#: functions/admin/options/sample-config.php:1150
+#: functions/admin/options/sample-config.php:1158
+#: functions/admin/options/sample-config.php:1167
+#: functions/admin/options/sample-config.php:1175
+#: functions/admin/options/sample-config.php:1184
+#: functions/admin/options/sample-config.php:1192
+#: functions/admin/options/sample-config.php:1201
+#: functions/admin/options/sample-config.php:1219
+#: functions/admin/options/sample-config.php:1228
+#: functions/admin/options/sample-config.php:1236
+#: functions/admin/options/sample-config.php:1245
+#: functions/admin/options/sample-config.php:1253
+#: functions/admin/options/sample-config.php:1295
+#: functions/admin/options/sample-config.php:1306
+#: functions/admin/options/sample-config.php:1321
+#@ redux-framework-demo
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:946
+#@ redux-framework-demo
+msgid "Multi Checkbox Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:967
+#: functions/admin/options/sample-config.php:998
+#@ redux-framework-demo
+msgid "Multi Checkbox Option (with menu data)"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:975
+#@ redux-framework-demo
+msgid "Multi Checkbox Option (with sidebar data)"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:983
+#@ redux-framework-demo
+msgid "Radio Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1006
+#@ redux-framework-demo
+msgid "Images Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1022
+#@ redux-framework-demo
+msgid "Images Option for Layout"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1024
+#@ redux-framework-demo
+msgid "This uses some of the built in images, you can use them for layout options."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1040
+#: functions/admin/options/sample-config.php:1053
+#@ redux-framework-demo
+msgid "Sortable Text Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1041
+#: functions/admin/options/sample-config.php:1054
+#@ redux-framework-demo
+msgid "Define and reorder these however you want."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1067
+#@ redux-framework-demo
+msgid "Select Fields"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1073
+#@ redux-framework-demo
+msgid "Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1089
+#@ redux-framework-demo
+msgid "Multi Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1105
+#: functions/metas/fields/image.php:44
+#@ redux-framework-demo
+#@ acf
+msgid "Select Image"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1106
+#@ redux-framework-demo
+msgid "A preview of the selected image will appear underneath the select box."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1117
+#@ redux-framework-demo
+msgid "You can easily add a variety of data from WordPress."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1123
+#@ redux-framework-demo
+msgid "Categories Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1132
+#@ redux-framework-demo
+msgid "Categories Multi Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1140
+#@ redux-framework-demo
+msgid "Pages Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1149
+#@ redux-framework-demo
+msgid "Pages Multi Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1157
+#@ redux-framework-demo
+msgid "Tags Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1166
+#@ redux-framework-demo
+msgid "Tags Multi Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1174
+#@ redux-framework-demo
+msgid "Menus Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1183
+#@ redux-framework-demo
+msgid "Menus Multi Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1191
+#@ redux-framework-demo
+msgid "Post Type Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1200
+#@ redux-framework-demo
+msgid "Post Type Multi Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1210
+#@ redux-framework-demo
+msgid "Post Type Multi Select Option + Sortable"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1211
+#@ redux-framework-demo
+msgid "This field also has sortable enabled!"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1218
+#@ redux-framework-demo
+msgid "Posts Select Option2"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1227
+#@ redux-framework-demo
+msgid "Posts Multi Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1235
+#@ redux-framework-demo
+msgid "User Role Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1244
+#@ redux-framework-demo
+msgid "Capabilities Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1252
+#@ redux-framework-demo
+msgid "Elusive Icons Select Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1254
+#@ redux-framework-demo
+msgid "Here's a list of all the elusive icons by name and icon."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1260
+#@ redux-framework-demo
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1261
+#@ redux-framework-demo
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1262
+#@ redux-framework-demo
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1266
+#@ redux-framework-demo
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1288
+#@ redux-framework-demo
+msgid "Additional Fields"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1294
+#@ redux-framework-demo
+msgid "Date Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1305
+#@ redux-framework-demo
+msgid "Button Set Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1320
+#@ redux-framework-demo
+msgid "Button Set, Multi Select"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1336
+#@ redux-framework-demo
+msgid "This is the info field, if you want to break sections up."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1342
+#: functions/admin/options/sample-config.php:1350
+#: functions/admin/options/sample-config.php:1358
+#: functions/admin/options/sample-config.php:1372
+#: functions/admin/options/sample-config.php:1380
+#: functions/admin/options/sample-config.php:1389
+#: functions/admin/options/sample-config.php:1398
+#: functions/admin/options/sample-config.php:1407
+#@ redux-framework-demo
+msgid "This is a title."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1343
+#@ redux-framework-demo
+msgid "This is an info field with the warning style applied and a header."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1351
+#@ redux-framework-demo
+msgid "This is an info field with the success style applied, a header and an icon."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1359
+#@ redux-framework-demo
+msgid "This is an info field with the critical style applied, a header and an icon."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1373
+#@ redux-framework-demo
+msgid "This is an info notice field with the normal style applied, a header and an icon."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1381
+#@ redux-framework-demo
+msgid "This is an info notice field with the info style applied, a header and an icon."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1390
+#@ redux-framework-demo
+msgid "This is an info notice field with the warning style applied, a header and an icon."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1399
+#@ redux-framework-demo
+msgid "This is an info notice field with the success style applied, a header and an icon."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1408
+#@ redux-framework-demo
+msgid "This is an notice field with the critical style applied, a header and an icon."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1413
+#@ redux-framework-demo
+msgid "Custom Field Callback"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1414
+#@ redux-framework-demo
+msgid "This is a completely unique field type"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1415
+#@ redux-framework-demo
+msgid "This is created with a callback function, so anything goes in this field. Make sure to define the function though."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1422
+#: functions/admin/options/sample-config.php:1447
+#@ redux-framework-demo
+msgid "Customizer Only Option"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1423
+#: functions/admin/options/sample-config.php:1448
+#@ redux-framework-demo
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1424
+#: functions/admin/options/sample-config.php:1449
+#@ redux-framework-demo
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1440
+#@ redux-framework-demo
+msgid "Customizer Only"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1441
+#@ redux-framework-demo
+msgid "<p class=\"description\">This Section should be visible only in Customizer</p>"
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1465
+#@ redux-framework-demo
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: functions/admin/options/sample-config.php:1484
+#@ redux-framework-demo
+msgid "Theme Information"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:1830
+#@ redux-framework
+msgid "Please Wait"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:1976
+#@ redux-framework-demo
+msgid "Hints"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:1977
+#@ redux-framework-demo
+msgid "<p></p>"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3151
+#@ redux-framework
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3198
+#@ redux-framework
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3226
+#@ redux-framework
+msgid "Expand"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3228
+#: functions/admin/redux-framework/ReduxCore/framework.php:3536
+#@ redux-framework
+msgid "Save Changes"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3232
+#: functions/admin/redux-framework/ReduxCore/framework.php:3540
+#@ redux-framework
+msgid "Reset Section"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3234
+#: functions/admin/redux-framework/ReduxCore/framework.php:3542
+#@ redux-framework
+msgid "Reset All"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3239
+#: functions/admin/redux-framework/ReduxCore/framework.php:3547
+#@ redux-framework
+msgid "Working..."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3259
+#@ redux-framework
+msgid "Settings Imported!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3274
+#@ redux-framework
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3288
+#@ redux-framework
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3302
+#@ redux-framework
+msgid "Settings Saved!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3320
+#@ redux-framework
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3328
+#@ redux-framework
+msgid "error(s) were found!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/framework.php:3336
+#@ redux-framework
+msgid "warning(s) were found!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/class.redux_filesystem.php:22
+#@ redux-framework
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/class.redux_filesystem.php:24
+#@ redux-framework
+msgid "has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/debug.php:54
+#@ redux-framework
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:124
+#: functions/admin/redux-framework/ReduxCore/inc/fields/color/field_color.php:72
+#: functions/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: functions/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: functions/admin/redux-framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+#@ redux-framework
+msgid "Transparent"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:157
+#@ redux-framework
+msgid "Background Clip"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:173
+#@ redux-framework
+msgid "Background Origin"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:188
+#@ redux-framework
+msgid "Background Size"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/background/field_background.php:277
+#: functions/admin/redux-framework/ReduxCore/inc/fields/media/field_media.php:116
+#@ redux-framework
+msgid "No media selected"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:127
+#: functions/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+#@ redux-framework
+msgid "Top"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/border/field_border.php:162
+#@ redux-framework
+msgid "Border style"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+#@ redux-framework
+msgid "From "
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+#@ redux-framework
+msgid "To "
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: functions/admin/redux-framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: functions/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: functions/admin/redux-framework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+#@ redux-framework
+msgid "Units"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+#@ redux-framework
+msgid "Clear Gallery"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+#@ redux-framework
+msgid "Regular"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+#@ redux-framework
+msgid "Hover"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+#@ redux-framework
+msgid "Visited"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+#@ redux-framework
+msgid "Add More"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/select/field_select.php:82
+#: functions/admin/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+#@ redux-framework
+msgid "Select an item"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/select/field_select.php:126
+#: functions/admin/redux-framework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+#@ redux-framework
+msgid "No items of this type were found."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:68
+#@ redux-framework
+msgid "Slide"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+#@ redux-framework
+msgid "New %s"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:220
+#, php-format
+#@ redux-framework
+msgid "Delete %s"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+#@ redux-framework
+msgid "Add %s"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:256
+#@ redux-framework
+msgid "Font Family"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:257
+#@ redux-framework
+msgid "Font family"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:283
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:284
+#@ redux-framework
+msgid "Backup Font Family"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:298
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:305
+#@ redux-framework
+msgid "Font style"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:299
+#@ redux-framework
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:305
+#: functions/metas/admin/views/field-group-options.php:55
+#@ redux-framework
+#@ acf
+msgid "Style"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:345
+#@ redux-framework
+msgid "Font subsets"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:347
+#@ redux-framework
+msgid "Font Subsets"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:348
+#@ redux-framework
+msgid "Subsets"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:348
+#@ redux-framework
+msgid "Font script"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:411
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:412
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:413
+#@ redux-framework
+msgid "Font Variant"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:431
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:432
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:433
+#@ redux-framework
+msgid "Text Decoration"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:455
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:456
+#@ redux-framework
+msgid "Font Size"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:464
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:465
+#@ redux-framework
+msgid "Line Height"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:473
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:474
+#@ redux-framework
+msgid "Word Spacing"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:482
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:483
+#@ redux-framework
+msgid "Letter Spacing"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:501
+#@ redux-framework
+msgid "Font Color"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:503
+#@ redux-framework
+msgid "Font color"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:861
+#@ redux-framework
+msgid "Standard Fonts"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/fields/typography/field_typography.php:968
+#@ redux-framework
+msgid "Google Webfonts"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:78
+#@ redux-framework
+msgid "Import / Export Options"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:81
+#@ redux-framework
+msgid "Import Options"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:82
+#@ redux-framework
+msgid "Import from file"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:82
+#@ redux-framework
+msgid "Import from URL"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:85
+#@ redux-framework
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:90
+#@ redux-framework
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:94
+#: functions/metas/admin/views/settings-export.php:115
+#@ redux-framework
+#@ acf
+msgid "Import"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:94
+#@ redux-framework
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:97
+#@ redux-framework
+msgid "Export Options"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:100
+#@ redux-framework
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:104
+#@ redux-framework
+msgid "Download"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/import_export.php:104
+#@ redux-framework
+msgid "Copy Link"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:130
+#@ redux-framework
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:131
+#@ redux-framework
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test to ensure compatibility."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:136
+#@ redux-framework
+msgid "Allow tracking"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:141
+#@ redux-framework
+msgid "Do not allow tracking"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:152
+#@ redux-framework
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:153
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:125
+#: functions/metas/admin/field-groups.php:329
+#@ redux-framework
+#@ acf
+msgid "Getting Started"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:153
+#, php-format
+#@ redux-framework
+msgid "This panel demonstrates the many features of Redux.  Before digging in, we suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:154
+#@ redux-framework
+msgid "Redux Generator"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:154
+#, php-format
+#@ redux-framework
+msgid "Want to get a head start? Use the %1$s. It will create a customized boilerplate theme or a standalone admin folder complete with all things Redux (with the help of Underscores and TGM). Save yourself a headache and try it today."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:155
+#, php-format
+#@ redux-framework
+msgid "Did you know we have extensions, which greatly enhance the features of Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/tracking.php:156
+#, php-format
+#@ redux-framework
+msgid "If so, please %1$s and consider making a %2$s to keep development of Redux moving forward."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: functions/admin/redux-framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: functions/admin/redux-framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+#@ redux-framework
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+#@ redux-framework
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/validation/date/validation_date.php:16
+#@ redux-framework
+msgid "This field must be a valid date."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/validation/email/validation_email.php:16
+#: functions/admin/redux-framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+#@ redux-framework
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+#@ redux-framework
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+#@ redux-framework
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: functions/admin/redux-framework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+#@ redux-framework
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/validation/url/validation_url.php:16
+#@ redux-framework
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:40
+#@ redux-framework
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:45
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:259
+#@ redux-framework
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:50
+#@ redux-framework
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:55
+#@ redux-framework
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:122
+#: functions/metas/admin/settings-info.php:74
+#@ redux-framework
+#@ acf
+msgid "What's New"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:128
+#: functions/metas/admin/field-groups.php:324
+#: functions/metas/admin/settings-info.php:75
+#: functions/metas/pro/admin/views/settings-updates.php:109
+#@ redux-framework
+#@ acf
+msgid "Changelog"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:131
+#@ redux-framework
+msgid "Credits"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:148
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:291
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:410
+#, php-format
+#@ redux-framework
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:149
+#, php-format
+#@ redux-framework
+msgid "Thank you for updating to the latest version! Redux Framework %s is ready to <add description>"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:155
+#@ redux-framework
+msgid "Some Feature"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:159
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:162
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:174
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:177
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:180
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:185
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:196
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:199
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:204
+#@ redux-framework
+msgid "Feature"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:169
+#@ redux-framework
+msgid "Some feature"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:192
+#@ redux-framework
+msgid "More Features"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:197
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:200
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:205
+#@ redux-framework
+msgid "description"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:211
+#@ redux-framework
+msgid "Additional Updates"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:215
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:218
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:223
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:226
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:231
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:234
+#@ redux-framework
+msgid "Cool thing"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:216
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:219
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:224
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:227
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:232
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:235
+#@ redux-framework
+msgid "cool thing description."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:241
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:274
+#@ redux-framework
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:242
+#@ redux
+msgid "View the Full Changelog"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:260
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:292
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:411
+#, php-format
+#@ redux-framework
+msgid "Thank you for updating to the latest version! Redux Framework %s is ready to make your <description>"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:266
+#@ redux-framework
+msgid "Full Changelog"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:297
+#@ redux-framework
+msgid "Use the tips below to get started using Redux Framework. You'll be up and running in no time!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:300
+#@ redux-framework
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:306
+#, php-format
+#@ redux
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:307
+#, php-format
+#@ redux
+msgid "The %s menu is your access point for all aspects of your Easy Digital Downloads product creation and setup. To create your first product, simply click Add New and then fill out the product details."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:309
+#@ redux
+msgid "Product Price"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:310
+#@ redux
+msgid "Products can have simple prices or variable prices if you wish to have more than one price point for a product. For a single price, simply enter the price. For multiple price points, click <em>Enable variable pricing</em> and enter the options."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:312
+#@ redux
+msgid "Download Files"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:313
+#@ redux
+msgid "Uploading the downloadable files is simple. Click <em>Upload File</em> in the Download Files section and choose your download file. To add more than one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:319
+#@ redux-framework
+msgid "Display a Product Grid"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:325
+#@ redux-framework
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:326
+#@ redux-framework
+msgid "The [downloads] shortcode will display a product grid that works with any theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:328
+#@ redux-framework
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:329
+#@ redux-framework
+msgid "You can easily change the number of columns by adding the columns=\"x\" parameter:"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:332
+#@ redux-framework
+msgid "Additional Display Options"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:333
+#, php-format
+#@ redux-framework
+msgid "The product grids can be customized in any way you wish and there is <a href=\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:338
+#@ redux-framework
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:344
+#@ redux-framework
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:345
+#@ redux-framework
+msgid "With easily accessible shortcodes to display purchase buttons, you can add a Buy Now or Add to Cart button for any product anywhere on your site in seconds."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:347
+#@ redux-framework
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:348
+#@ redux-framework
+msgid "Purchase buttons can behave as either Add to Cart or Buy Now buttons. With Buy Now buttons customers are taken straight to PayPal, giving them the most frictionless purchasing experience possible."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:354
+#@ redux-framework
+msgid "Need Help?"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:358
+#@ redux-framework
+msgid "Phenomenal Support"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:359
+#@ redux-framework
+msgid "We do our best to provide the best support we can. If you encounter a problem or have a question, post a question in the <a href=\"https://easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:361
+#@ redux
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:362
+#@ redux-framework
+msgid "Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority Support forums</a> are there for customers that need faster and/or more in-depth assistance."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:368
+#@ redux-framework
+msgid "Stay Up to Date"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:372
+#@ v
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:373
+#@ redux-framework
+msgid "New extensions that make Easy Digital Downloads even more powerful are released nearly every single week. Subscribe to the newsletter to stay up to date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:375
+#@ redux-framework
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:376
+#@ redux-framework
+msgid "<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear about the latest tutorial releases that explain how to take Easy Digital Downloads further."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:382
+#@ redux-framework
+msgid "Extensions for Everything"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:386
+#@ redux-framework
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:387
+#@ redux-framework
+msgid "Add-on plugins are available that greatly extend the default functionality of Easy Digital Downloads. There are extensions for payment processors, such as Stripe and PayPal, extensions for newsletter integrations, and many, many more."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:389
+#@ redux-framework
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:390
+#@ redux-framework
+msgid "<a href=\"https://easydigitaldownloads.com/extensions\" target=\"_blank\">The Extensions store</a> has a list of all available extensions, including convenient category filters so you can find exactly what you are looking for."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:416
+#@ redux-framework
+msgid "Redux Framework is created by a worldwide team of developers who <something witty here>"
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:436
+#@ redux
+msgid "No valid changlog was found."
+msgstr ""
+
+#: functions/admin/redux-framework/ReduxCore/inc/welcome.php:474
+#, php-format
+#@ redux-framework
+msgid "View %s"
+msgstr ""
+
+#: functions/admin/redux-framework/class.redux-plugin.php:407
+#@ redux-framework
+msgid "Repo"
+msgstr ""
+
+#: functions/admin/redux-framework/class.redux-plugin.php:408
+#@ redux-framework
+msgid "Generator"
+msgstr ""
+
+#: functions/admin/redux-framework/class.redux-plugin.php:409
+#@ redux-framework
+msgid "Issues"
+msgstr ""
+
+#: functions/metas/acf.php:63
+#@ acf
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: functions/metas/acf.php:244
+#@ acf
+msgid "Field&nbsp;Groups"
+msgstr ""
+
+#: functions/metas/acf.php:245
+#@ acf
+msgid "Field Group"
+msgstr ""
+
+#: functions/metas/acf.php:246
+#: functions/metas/acf.php:272
+#: functions/metas/pro/fields/flexible-content.php:498
+#@ acf
+msgid "Add New"
+msgstr ""
+
+#: functions/metas/acf.php:247
+#@ acf
+msgid "Add New Field Group"
+msgstr ""
+
+#: functions/metas/acf.php:248
+#@ acf
+msgid "Edit Field Group"
+msgstr ""
+
+#: functions/metas/acf.php:249
+#@ acf
+msgid "New Field Group"
+msgstr ""
+
+#: functions/metas/acf.php:250
+#@ acf
+msgid "View Field Group"
+msgstr ""
+
+#: functions/metas/acf.php:251
+#@ acf
+msgid "Search Field Groups"
+msgstr ""
+
+#: functions/metas/acf.php:252
+#@ acf
+msgid "No Field Groups found"
+msgstr ""
+
+#: functions/metas/acf.php:253
+#@ acf
+msgid "No Field Groups found in Trash"
+msgstr ""
+
+#: functions/metas/acf.php:270
+#: functions/metas/admin/field-group.php:211
+#: functions/metas/admin/field-group.php:242
+#: functions/metas/admin/field-group.php:281
+#: functions/metas/admin/field-groups.php:270
+#@ acf
+msgid "Fields"
+msgstr ""
+
+#: functions/metas/acf.php:271
+#@ acf
+msgid "Field"
+msgstr ""
+
+#: functions/metas/acf.php:273
+#@ acf
+msgid "Add New Field"
+msgstr ""
+
+#: functions/metas/acf.php:274
+#@ acf
+msgid "Edit Field"
+msgstr ""
+
+#: functions/metas/acf.php:275
+#: functions/metas/admin/views/field-group-fields.php:18
+#: functions/metas/admin/views/settings-info.php:109
+#@ acf
+msgid "New Field"
+msgstr ""
+
+#: functions/metas/acf.php:276
+#@ acf
+msgid "View Field"
+msgstr ""
+
+#: functions/metas/acf.php:277
+#@ acf
+msgid "Search Fields"
+msgstr ""
+
+#: functions/metas/acf.php:278
+#@ acf
+msgid "No Fields found"
+msgstr ""
+
+#: functions/metas/acf.php:279
+#@ acf
+msgid "No Fields found in Trash"
+msgstr ""
+
+#: functions/metas/admin/admin.php:49
+#: functions/metas/admin/views/field-group-options.php:110
+#@ acf
+msgid "Custom Fields"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:68
+#: functions/metas/admin/field-group.php:71
+#@ acf
+msgid "Field group updated."
+msgstr ""
+
+#: functions/metas/admin/field-group.php:69
+#@ acf
+msgid "Custom field updated."
+msgstr ""
+
+#: functions/metas/admin/field-group.php:70
+#@ acf
+msgid "Custom field deleted."
+msgstr ""
+
+#: functions/metas/admin/field-group.php:73
+#@ acf
+msgid "Field group published."
+msgstr ""
+
+#: functions/metas/admin/field-group.php:74
+#@ acf
+msgid "Field group saved."
+msgstr ""
+
+#: functions/metas/admin/field-group.php:75
+#@ acf
+msgid "Field group submitted."
+msgstr ""
+
+#: functions/metas/admin/field-group.php:76
+#@ acf
+msgid "Field group scheduled for."
+msgstr ""
+
+#: functions/metas/admin/field-group.php:77
+#@ acf
+msgid "Field group draft updated."
+msgstr ""
+
+#: functions/metas/admin/field-group.php:205
+#@ acf
+msgid "Move to trash. Are you sure?"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:206
+#@ acf
+msgid "checked"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:207
+#@ acf
+msgid "No toggle fields available"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:208
+#@ acf
+msgid "Field group title is required"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:209
+#: functions/metas/api/api-field-group.php:577
+#@ acf
+msgid "copy"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:210
+#: functions/metas/admin/views/field-group-field-conditional-logic.php:67
+#: functions/metas/admin/views/field-group-field-conditional-logic.php:162
+#: functions/metas/admin/views/field-group-locations.php:53
+#: functions/metas/admin/views/field-group-locations.php:162
+#@ acf
+msgid "or"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:212
+#@ acf
+msgid "Parent fields"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:213
+#@ acf
+msgid "Sibling fields"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:214
+#@ acf
+msgid "Hide / Show All"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:215
+#@ acf
+msgid "Move Custom Field"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:216
+#@ acf
+msgid "This field cannot be moved until its changes have been saved"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:217
+#@ acf
+msgid "Null"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:218
+#: functions/metas/core/input.php:112
+#@ acf
+msgid "The changes you made will be lost if you navigate away from this page"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:243
+#@ acf
+msgid "Location"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:285
+#@ acf
+msgid "Show Field Keys"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:286
+#: functions/metas/admin/views/field-group-field-conditional-logic.php:40
+#: functions/metas/admin/views/field-group-field.php:132
+#: functions/metas/fields/page_link.php:522
+#: functions/metas/fields/page_link.php:536
+#: functions/metas/fields/post_object.php:460
+#: functions/metas/fields/post_object.php:474
+#: functions/metas/fields/select.php:394
+#: functions/metas/fields/select.php:408
+#: functions/metas/fields/select.php:422
+#: functions/metas/fields/select.php:436
+#: functions/metas/fields/taxonomy.php:630
+#: functions/metas/fields/user.php:345
+#: functions/metas/fields/user.php:359
+#: functions/metas/fields/wysiwyg.php:384
+#: functions/metas/pro/admin/views/settings-updates.php:93
+#@ acf
+msgid "Yes"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:287
+#: functions/metas/admin/views/field-group-field-conditional-logic.php:41
+#: functions/metas/admin/views/field-group-field.php:133
+#: functions/metas/fields/page_link.php:523
+#: functions/metas/fields/page_link.php:537
+#: functions/metas/fields/post_object.php:461
+#: functions/metas/fields/post_object.php:475
+#: functions/metas/fields/select.php:395
+#: functions/metas/fields/select.php:409
+#: functions/metas/fields/select.php:423
+#: functions/metas/fields/select.php:437
+#: functions/metas/fields/taxonomy.php:631
+#: functions/metas/fields/user.php:346
+#: functions/metas/fields/user.php:360
+#: functions/metas/fields/wysiwyg.php:385
+#: functions/metas/pro/admin/views/settings-updates.php:102
+#@ acf
+msgid "No"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:572
+#@ default
+msgid "Super Admin"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:645
+#: functions/metas/pro/admin/views/options-page.php:52
+#@ acf
+msgid "Publish"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:646
+#@ acf
+msgid "Pending Review"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:647
+#@ acf
+msgid "Draft"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:648
+#@ acf
+msgid "Future"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:649
+#@ acf
+msgid "Private"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:650
+#@ acf
+msgid "Revision"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:651
+#@ acf
+msgid "Trash"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:715
+#@ acf
+msgid "Front Page"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:716
+#@ acf
+msgid "Posts Page"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:717
+#@ acf
+msgid "Top Level Page (parent of 0)"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:718
+#@ acf
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:719
+#@ acf
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:735
+#@ acf
+msgid "Default Template"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:766
+#@ acf
+msgid "Add / Edit"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:767
+#@ acf
+msgid "Register"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:998
+#@ acf
+msgid "Move Complete."
+msgstr ""
+
+#: functions/metas/admin/field-group.php:999
+#, php-format
+#@ acf
+msgid "The %s field can now be found in the %s field group"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:1001
+#@ acf
+msgid "Close Window"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:1036
+#@ acf
+msgid "Please select the destination for this field"
+msgstr ""
+
+#: functions/metas/admin/field-group.php:1043
+#@ acf
+msgid "Move Field"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:223
+#, php-format
+#@ acf
+msgid "Field group duplicated! Edit the new \"%s\" field group."
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:325
+#@ acf
+msgid "See what's new in"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:325
+#@ acf
+msgid "version"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:327
+#@ acf
+msgid "Resources"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:330
+#: functions/metas/pro/admin/settings-updates.php:51
+#: functions/metas/pro/admin/views/settings-updates.php:17
+#@ acf
+msgid "Updates"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:331
+#@ acf
+msgid "Field Types"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:332
+#@ acf
+msgid "Functions"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:333
+#@ acf
+msgid "Actions"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:334
+#: functions/metas/fields/relationship.php:741
+#@ acf
+msgid "Filters"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:335
+#@ acf
+msgid "'How to' guides"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:336
+#@ acf
+msgid "Tutorials"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:341
+#@ acf
+msgid "Created by"
+msgstr ""
+
+#: functions/metas/admin/field-groups.php:376
+#: functions/metas/admin/views/field-group-field.php:55
+#: functions/metas/pro/fields/flexible-content.php:497
+#@ acf
+msgid "Duplicate"
+msgstr ""
+
+#: functions/metas/admin/settings-addons.php:51
+#: functions/metas/admin/views/settings-addons.php:9
+#@ acf
+msgid "Add-ons"
+msgstr ""
+
+#: functions/metas/admin/settings-addons.php:87
+#@ acf
+msgid "<b>Error</b>. Could not load add-ons list"
+msgstr ""
+
+#: functions/metas/admin/settings-export.php:54
+#@ acf
+msgid "Import/Export"
+msgstr ""
+
+#: functions/metas/admin/settings-export.php:217
+#@ acf
+msgid "No file selected"
+msgstr ""
+
+#: functions/metas/admin/settings-export.php:230
+#@ acf
+msgid "Error uploading file. Please try again"
+msgstr ""
+
+#: functions/metas/admin/settings-export.php:239
+#@ acf
+msgid "Incorrect file type"
+msgstr ""
+
+#: functions/metas/admin/settings-export.php:256
+#@ acf
+msgid "Import file empty"
+msgstr ""
+
+#: functions/metas/admin/settings-export.php:356
+#, php-format
+#@ acf
+msgid "<b>Success</b>. Import tool added %s field groups: %s"
+msgstr ""
+
+#: functions/metas/admin/settings-export.php:365
+#, php-format
+#@ acf
+msgid "<b>Warning</b>. Import tool detected %s field groups already exist and have been ignored: %s"
+msgstr ""
+
+#: functions/metas/admin/settings-export.php:394
+#@ acf
+msgid "No field groups selected"
+msgstr ""
+
+#: functions/metas/admin/settings-info.php:49
+#@ acf
+msgid "Info"
+msgstr ""
+
+#: functions/metas/admin/update.php:131
+#@ acf
+msgid "Upgrade"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field-conditional-logic.php:29
+#@ acf
+msgid "Conditional Logic"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field-conditional-logic.php:65
+#@ acf
+msgid "Show this field if"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field-conditional-logic.php:111
+#: functions/metas/admin/views/field-group-locations.php:119
+#@ acf
+msgid "is equal to"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field-conditional-logic.php:112
+#: functions/metas/admin/views/field-group-locations.php:120
+#@ acf
+msgid "is not equal to"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field-conditional-logic.php:149
+#: functions/metas/admin/views/field-group-locations.php:149
+#@ acf
+msgid "and"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field-conditional-logic.php:164
+#: functions/metas/admin/views/field-group-locations.php:164
+#@ acf
+msgid "Add rule group"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:51
+#: functions/metas/admin/views/field-group-field.php:54
+#@ acf
+msgid "Edit field"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:54
+#@ acf
+msgid "Edit"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:55
+#@ acf
+msgid "Duplicate field"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:56
+#@ acf
+msgid "Move field to another group"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:56
+#@ acf
+msgid "Move"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:57
+#@ acf
+msgid "Delete field"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:65
+#: functions/metas/fields/oembed.php:214
+#@ acf
+msgid "Error"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:65
+#@ acf
+msgid "Field type does not exist"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:77
+#@ acf
+msgid "Field Label"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:78
+#@ acf
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:89
+#@ acf
+msgid "Field Name"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:90
+#@ acf
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:101
+#: functions/metas/fields/taxonomy.php:605
+#@ acf
+msgid "Field Type"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:114
+#: functions/metas/fields/tab.php:99
+#@ acf
+msgid "Instructions"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:115
+#@ acf
+msgid "Instructions for authors. Shown when submitting data"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:125
+#@ acf
+msgid "Required?"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-field.php:152
+#@ acf
+msgid "Close Field"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-fields.php:29
+#@ acf
+msgid "Order"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-fields.php:30
+#: functions/metas/pro/fields/flexible-content.php:524
+#@ acf
+msgid "Label"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-fields.php:31
+#: functions/metas/pro/fields/flexible-content.php:539
+#@ acf
+msgid "Name"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-fields.php:32
+#@ acf
+msgid "Type"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-fields.php:44
+#@ acf
+msgid "No fields. Click the <strong>+ Add Field</strong> button to create your first field."
+msgstr ""
+
+#: functions/metas/admin/views/field-group-fields.php:51
+#@ acf
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-fields.php:54
+#@ acf
+msgid "+ Add Field"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:35
+#@ acf
+msgid "Rules"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:36
+#@ acf
+msgid "Create a set of rules to determine which edit screens will use these advanced custom fields"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:51
+#@ acf
+msgid "Show this field group if"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:71
+#: functions/metas/core/field.php:130
+#@ acf
+msgid "Basic"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:72
+#: functions/metas/fields/relationship.php:747
+#@ acf
+msgid "Post Type"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:73
+#@ acf
+msgid "Logged in User Type"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:75
+#: functions/metas/admin/views/field-group-locations.php:76
+#@ acf
+msgid "Post"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:77
+#@ acf
+msgid "Post Category"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:78
+#@ acf
+msgid "Post Format"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:79
+#@ acf
+msgid "Post Status"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:80
+#@ acf
+msgid "Post Taxonomy"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:82
+#: functions/metas/admin/views/field-group-locations.php:83
+#@ acf
+msgid "Page"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:84
+#@ acf
+msgid "Page Type"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:85
+#@ acf
+msgid "Page Parent"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:86
+#@ acf
+msgid "Page Template"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:88
+#: functions/metas/fields/user.php:36
+#@ acf
+msgid "User"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:89
+#@ acf
+msgid "User Form"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:90
+#@ acf
+msgid "User Role"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:92
+#: functions/metas/pro/admin/options-page.php:55
+#@ acf
+msgid "Forms"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:93
+#@ acf
+msgid "Attachment"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:94
+#@ acf
+msgid "Taxonomy Term"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:95
+#@ acf
+msgid "Comment"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-locations.php:96
+#@ acf
+msgid "Widget"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:27
+#@ acf
+msgid "Order No."
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:28
+#@ acf
+msgid "Field groups are created in order <br />from lowest to highest"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:38
+#@ acf
+msgid "Position"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:45
+#@ acf
+msgid "High (after title)"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:46
+#@ acf
+msgid "Normal (after content)"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:47
+#@ acf
+msgid "Side"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:62
+#@ acf
+msgid "Standard (WP metabox)"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:63
+#@ acf
+msgid "Seamless (no metabox)"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:70
+#@ acf
+msgid "Label placement"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:77
+#@ acf
+msgid "Top aligned"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:78
+#@ acf
+msgid "Left Aligned"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:85
+#@ acf
+msgid "Instruction placement"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:92
+#@ acf
+msgid "Below labels"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:93
+#@ acf
+msgid "Below fields"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:100
+#@ acf
+msgid "Hide on screen"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:101
+#@ acf
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:101
+#@ acf
+msgid "If multiple field groups appear on an edit screen, the first field group's options will be used. (the one with the lowest order number)"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:107
+#@ acf
+msgid "Permalink"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:108
+#@ acf
+msgid "Content Editor"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:109
+#@ acf
+msgid "Excerpt"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:111
+#@ acf
+msgid "Discussion"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:112
+#@ acf
+msgid "Comments"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:113
+#@ acf
+msgid "Revisions"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:114
+#@ acf
+msgid "Slug"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:115
+#@ acf
+msgid "Author"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:116
+#@ acf
+msgid "Format"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:117
+#@ acf
+msgid "Page Attributes"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:118
+#: functions/metas/fields/relationship.php:760
+#@ acf
+msgid "Featured Image"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:119
+#@ acf
+msgid "Categories"
+msgstr ""
+
+#: functions/metas/admin/views/field-group-options.php:121
+#@ acf
+msgid "Send Trackbacks"
+msgstr ""
+
+#: functions/metas/admin/views/settings-addons.php:23
+#@ acf
+msgid "Download & Install"
+msgstr ""
+
+#: functions/metas/admin/views/settings-addons.php:42
+#@ acf
+msgid "Installed"
+msgstr ""
+
+#: functions/metas/admin/views/settings-addons.php:44
+#@ default
+msgid "btn"
+msgstr ""
+
+#: functions/metas/admin/views/settings-export-generate.php:13
+#@ acf
+msgid "Export Field Groups to PHP"
+msgstr ""
+
+#: functions/metas/admin/views/settings-export-generate.php:17
+#@ acf
+msgid "The following code can be used to register a local version of the selected field group(s). A local field group can provide many benefits such as faster load times, version control & dynamic fields/settings. Simply copy and paste the following code to your theme's functions.php file or include it within an external file."
+msgstr ""
+
+#: functions/metas/admin/views/settings-export.php:7
+#@ acf
+msgid "Export Field Groups"
+msgstr ""
+
+#: functions/metas/admin/views/settings-export.php:10
+#@ acf
+msgid "Select the field groups you would like to export and then select your export method. Use the download button to export to a .json file which you can then import to another ACF installation. Use the generate button to export to PHP code which you can place in your theme."
+msgstr ""
+
+#: functions/metas/admin/views/settings-export.php:20
+#@ acf
+msgid "Select Field Groups"
+msgstr ""
+
+#: functions/metas/admin/views/settings-export.php:55
+#@ acf
+msgid "Download export file"
+msgstr ""
+
+#: functions/metas/admin/views/settings-export.php:56
+#@ acf
+msgid "Generate export code"
+msgstr ""
+
+#: functions/metas/admin/views/settings-export.php:69
+#@ acf
+msgid "Toggle All"
+msgstr ""
+
+#: functions/metas/admin/views/settings-export.php:93
+#@ acf
+msgid "Import Field Groups"
+msgstr ""
+
+#: functions/metas/admin/views/settings-export.php:96
+#@ acf
+msgid "Select the Advanced Custom Fields JSON file you would like to import. When you click the import button below, ACF will import the field groups."
+msgstr ""
+
+#: functions/metas/admin/views/settings-export.php:106
+#: functions/metas/fields/file.php:43
+#@ acf
+msgid "Select File"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:9
+#@ acf
+msgid "Welcome to Advanced Custom Fields"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:10
+#, php-format
+#@ acf
+msgid "Thank you for updating! ACF %s is bigger and better than ever before. We hope you like it."
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:25
+#@ acf
+msgid "A smoother custom field experience"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:30
+#@ acf
+msgid "Improved Usability"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:31
+#@ acf
+msgid "Including the popular Select2 library has improved both usability and speed across a number of field types including post object, page link, taxonomy and select."
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:35
+#@ acf
+msgid "Improved Design"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:36
+#@ acf
+msgid "Many fields have undergone a visual refresh to make ACF look better than ever! Noticeable changes are seen on the gallery, relationship and oEmbed (new) fields!"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:40
+#@ acf
+msgid "Improved Data"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:41
+#@ acf
+msgid "Redesigning the data architecture has allowed sub fields to live independently from their parents. This allows you to drag and drop fields in and out of parent fields!"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:47
+#@ acf
+msgid "Goodbye Add-ons. Hello PRO"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:52
+#@ acf
+msgid "Introducing ACF PRO"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:53
+#@ acf
+msgid "We're changing the way premium functionality is delivered in an exiting way!"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:54
+#, php-format
+#@ acf
+msgid "All 4 premium add-ons have been combined into a new <a href=\"%s\">Pro version of ACF</a>. With both personal and developer licenses available, premium functionality is more affordable and accessible than ever before!"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:58
+#@ acf
+msgid "Powerful Features"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:59
+#@ acf
+msgid "ACF PRO contains powerful features such as repeatable data, flexible content layouts, a beautiful gallery field and the ability to create extra admin options pages!"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:60
+#, php-format
+#@ acf
+msgid "Read more about <a href=\"%s\">ACF PRO features</a>."
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:64
+#@ acf
+msgid "Easy Upgrading"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:65
+#, php-format
+#@ acf
+msgid "To help make upgrading easy, <a href=\"%s\">login to your store account</a> and claim a free copy of ACF PRO!"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:66
+#, php-format
+#@ acf
+msgid "We also wrote an <a href=\"%s\">upgrade guide</a> to answer any questions, but if you do have one, please contact our support team via the <a href=\"%s\">help desk</a>"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:74
+#@ acf
+msgid "Under the Hood"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:79
+#@ acf
+msgid "Smarter field settings"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:80
+#@ acf
+msgid "ACF now saves its field settings as individual post objects"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:84
+#@ acf
+msgid "More AJAX"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:85
+#@ acf
+msgid "More fields use AJAX powered search to speed up page loading"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:89
+#@ acf
+msgid "Local JSON"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:90
+#@ acf
+msgid "New auto export to JSON feature improves speed"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:94
+#@ acf
+msgid "Better version control"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:95
+#@ acf
+msgid "New auto export to JSON feature allows field settings to be version controlled"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:99
+#@ acf
+msgid "Swapped XML for JSON"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:100
+#@ acf
+msgid "Import / Export now uses JSON in favour of XML"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:104
+#@ acf
+msgid "New Forms"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:105
+#@ acf
+msgid "Fields can now be mapped to comments, widgets and all user forms!"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:110
+#@ acf
+msgid "A new field for embedding content has been added"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:114
+#@ acf
+msgid "New Gallery"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:115
+#@ acf
+msgid "The gallery field has undergone a much needed facelift"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:119
+#@ acf
+msgid "New Settings"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:120
+#@ acf
+msgid "Field group settings have been added for label placement and instruction placement"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:124
+#@ acf
+msgid "Better Front End Forms"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:125
+#@ acf
+msgid "acf_form() can now create a new post on submission"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:129
+#@ acf
+msgid "Better Validation"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:130
+#@ acf
+msgid "Form validation is now done via PHP + AJAX in favour of only JS"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:134
+#@ acf
+msgid "Relationship Field"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:135
+#@ acf
+msgid "New Relationship field setting for 'Filters' (Search, Post Type, Taxonomy)"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:139
+#@ acf
+msgid "Moving Fields"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:140
+#@ acf
+msgid "New field group functionality allows you to move a field between groups & parents"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:144
+#: functions/metas/fields/page_link.php:36
+#@ acf
+msgid "Page Link"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:145
+#@ acf
+msgid "New archives group in page_link field selection"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:149
+#@ acf
+msgid "Better Options Pages"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:150
+#@ acf
+msgid "New functions for options page allow creation of both parent and child menu pages"
+msgstr ""
+
+#: functions/metas/admin/views/settings-info.php:158
+#, php-format
+#@ acf
+msgid "We think you'll love the changes in %s."
+msgstr ""
+
+#: functions/metas/admin/views/update-notice.php:22
+#@ acf
+msgid "ACF PRO Required"
+msgstr ""
+
+#: functions/metas/admin/views/update-notice.php:24
+#: functions/metas/admin/views/update-notice.php:36
+#, php-format
+#@ acf
+msgid "Thank you for updating to %s v%s!"
+msgstr ""
+
+#: functions/metas/admin/views/update-notice.php:26
+#, php-format
+#@ acf
+msgid "We have detected an issue which requires your attention: This website makes use of premium add-ons (%s) which are no longer compatible with ACF."
+msgstr ""
+
+#: functions/metas/admin/views/update-notice.php:28
+#@ acf
+msgid "Don't panic, you can simply roll back the plugin and continue using ACF as you know it!"
+msgstr ""
+
+#: functions/metas/admin/views/update-notice.php:30
+#, php-format
+#@ acf
+msgid "Roll back to ACF v%s"
+msgstr ""
+
+#: functions/metas/admin/views/update-notice.php:30
+#@ acf
+msgid "Learn why ACF PRO is required for my site"
+msgstr ""
+
+#: functions/metas/admin/views/update-notice.php:34
+#@ acf
+msgid "Database Upgrade Required"
+msgstr ""
+
+#: functions/metas/admin/views/update-notice.php:36
+#@ acf
+msgid "Before you start using the new awesome features, please update your database to the newest version."
+msgstr ""
+
+#: functions/metas/admin/views/update-notice.php:38
+#@ acf
+msgid "Update Database"
+msgstr ""
+
+#: functions/metas/admin/views/update-notice.php:45
+#@ acf
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: functions/metas/admin/views/update.php:9
+#@ acf
+msgid "Data Upgrade"
+msgstr ""
+
+#: functions/metas/admin/views/update.php:13
+#@ acf
+msgid "Reading upgrade tasks..."
+msgstr ""
+
+#: functions/metas/admin/views/update.php:19
+#, php-format
+#@ acf
+msgid "Upgrading data to version %s"
+msgstr ""
+
+#: functions/metas/admin/views/update.php:25
+#@ acf
+msgid "Data upgraded successfully."
+msgstr ""
+
+#: functions/metas/admin/views/update.php:27
+#@ acf
+msgid "See what's new"
+msgstr ""
+
+#: functions/metas/admin/views/update.php:31
+#@ acf
+msgid "Data is at the latest version."
+msgstr ""
+
+#: functions/metas/api/api-helpers.php:1158
+#@ acf
+msgid "Thumbnail"
+msgstr ""
+
+#: functions/metas/api/api-helpers.php:1159
+#@ acf
+msgid "Medium"
+msgstr ""
+
+#: functions/metas/api/api-helpers.php:1160
+#@ acf
+msgid "Large"
+msgstr ""
+
+#: functions/metas/api/api-helpers.php:1161
+#@ acf
+msgid "Full Size"
+msgstr ""
+
+#: functions/metas/api/api-helpers.php:1747
+#@ acf
+msgid "(no title)"
+msgstr ""
+
+#: functions/metas/api/api-template.php:1187
+#: functions/metas/pro/fields/gallery.php:488
+#@ acf
+msgid "Update"
+msgstr ""
+
+#: functions/metas/api/api-template.php:1188
+#@ acf
+msgid "Post updated"
+msgstr ""
+
+#: functions/metas/api/api-template.php:1324
+#@ redux-framework
+msgid "form_attributes"
+msgstr ""
+
+#: functions/metas/core/field.php:131
+#@ acf
+msgid "Content"
+msgstr ""
+
+#: functions/metas/core/field.php:132
+#@ acf
+msgid "Choice"
+msgstr ""
+
+#: functions/metas/core/field.php:133
+#@ acf
+msgid "Relational"
+msgstr ""
+
+#: functions/metas/core/field.php:134
+#@ acf
+msgid "jQuery"
+msgstr ""
+
+#: functions/metas/core/field.php:135
+#: functions/metas/fields/checkbox.php:187
+#: functions/metas/fields/radio.php:231
+#: functions/metas/pro/fields/flexible-content.php:493
+#: functions/metas/pro/fields/repeater.php:394
+#@ acf
+msgid "Layout"
+msgstr ""
+
+#: functions/metas/core/input.php:113
+#@ acf
+msgid "Expand Details"
+msgstr ""
+
+#: functions/metas/core/input.php:114
+#@ acf
+msgid "Collapse Details"
+msgstr ""
+
+#: functions/metas/core/input.php:146
+#@ acf
+msgid "Validation successful"
+msgstr ""
+
+#: functions/metas/core/input.php:157
+#@ acf
+msgid "Validation failed"
+msgstr ""
+
+#: functions/metas/core/input.php:164
+#, php-format
+#@ acf
+msgid "1 required field below is empty"
+msgid_plural "%s required fields below are empty"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/metas/core/input.php:464
+#, php-format
+#@ acf
+msgid "%s value is required"
+msgstr ""
+
+#: functions/metas/fields/checkbox.php:36
+#: functions/metas/fields/taxonomy.php:612
+#@ acf
+msgid "Checkbox"
+msgstr ""
+
+#: functions/metas/fields/checkbox.php:169
+#: functions/metas/fields/radio.php:193
+#: functions/metas/fields/select.php:371
+#@ acf
+msgid "Choices"
+msgstr ""
+
+#: functions/metas/fields/checkbox.php:170
+#: functions/metas/fields/radio.php:194
+#: functions/metas/fields/select.php:372
+#@ acf
+msgid "Enter each choice on a new line."
+msgstr ""
+
+#: functions/metas/fields/checkbox.php:170
+#: functions/metas/fields/radio.php:194
+#: functions/metas/fields/select.php:372
+#@ acf
+msgid "For more control, you may specify both a value and label like this:"
+msgstr ""
+
+#: functions/metas/fields/checkbox.php:170
+#: functions/metas/fields/radio.php:194
+#: functions/metas/fields/select.php:372
+#@ acf
+msgid "red : Red"
+msgstr ""
+
+#: functions/metas/fields/checkbox.php:178
+#: functions/metas/fields/color_picker.php:158
+#: functions/metas/fields/email.php:124
+#: functions/metas/fields/number.php:150
+#: functions/metas/fields/radio.php:222
+#: functions/metas/fields/select.php:380
+#: functions/metas/fields/text.php:148
+#: functions/metas/fields/textarea.php:145
+#: functions/metas/fields/true_false.php:115
+#: functions/metas/fields/url.php:117
+#: functions/metas/fields/wysiwyg.php:345
+#@ acf
+msgid "Default Value"
+msgstr ""
+
+#: functions/metas/fields/checkbox.php:179
+#: functions/metas/fields/select.php:381
+#@ acf
+msgid "Enter each default value on a new line"
+msgstr ""
+
+#: functions/metas/fields/checkbox.php:193
+#: functions/metas/fields/radio.php:237
+#@ acf
+msgid "Vertical"
+msgstr ""
+
+#: functions/metas/fields/checkbox.php:194
+#: functions/metas/fields/radio.php:238
+#@ acf
+msgid "Horizontal"
+msgstr ""
+
+#: functions/metas/fields/color_picker.php:36
+#@ acf
+msgid "Color Picker"
+msgstr ""
+
+#: functions/metas/fields/color_picker.php:94
+#@ acf
+msgid "Clear"
+msgstr ""
+
+#: functions/metas/fields/color_picker.php:96
+#@ acf
+msgid "Select Color"
+msgstr ""
+
+#: functions/metas/fields/date_picker.php:36
+#@ acf
+msgid "Date Picker"
+msgstr ""
+
+#: functions/metas/fields/date_picker.php:72
+#@ acf
+msgid "Done"
+msgstr ""
+
+#: functions/metas/fields/date_picker.php:73
+#@ acf
+msgid "Today"
+msgstr ""
+
+#: functions/metas/fields/date_picker.php:76
+#@ acf
+msgid "Show a different month"
+msgstr ""
+
+#: functions/metas/fields/date_picker.php:149
+#@ acf
+msgid "Display format"
+msgstr ""
+
+#: functions/metas/fields/date_picker.php:150
+#@ acf
+msgid "The format displayed when editing a post"
+msgstr ""
+
+#: functions/metas/fields/date_picker.php:164
+#@ acf
+msgid "Return format"
+msgstr ""
+
+#: functions/metas/fields/date_picker.php:165
+#@ acf
+msgid "The format returned via template functions"
+msgstr ""
+
+#: functions/metas/fields/date_picker.php:180
+#@ acf
+msgid "Week Starts On"
+msgstr ""
+
+#: functions/metas/fields/email.php:36
+#@ acf
+msgid "Email"
+msgstr ""
+
+#: functions/metas/fields/email.php:125
+#: functions/metas/fields/number.php:151
+#: functions/metas/fields/radio.php:223
+#: functions/metas/fields/text.php:149
+#: functions/metas/fields/textarea.php:146
+#: functions/metas/fields/url.php:118
+#: functions/metas/fields/wysiwyg.php:346
+#@ acf
+msgid "Appears when creating a new post"
+msgstr ""
+
+#: functions/metas/fields/email.php:133
+#: functions/metas/fields/number.php:159
+#: functions/metas/fields/password.php:137
+#: functions/metas/fields/text.php:157
+#: functions/metas/fields/textarea.php:154
+#: functions/metas/fields/url.php:126
+#@ acf
+msgid "Placeholder Text"
+msgstr ""
+
+#: functions/metas/fields/email.php:134
+#: functions/metas/fields/number.php:160
+#: functions/metas/fields/password.php:138
+#: functions/metas/fields/text.php:158
+#: functions/metas/fields/textarea.php:155
+#: functions/metas/fields/url.php:127
+#@ acf
+msgid "Appears within the input"
+msgstr ""
+
+#: functions/metas/fields/email.php:142
+#: functions/metas/fields/number.php:168
+#: functions/metas/fields/password.php:146
+#: functions/metas/fields/text.php:166
+#@ acf
+msgid "Prepend"
+msgstr ""
+
+#: functions/metas/fields/email.php:143
+#: functions/metas/fields/number.php:169
+#: functions/metas/fields/password.php:147
+#: functions/metas/fields/text.php:167
+#@ acf
+msgid "Appears before the input"
+msgstr ""
+
+#: functions/metas/fields/email.php:151
+#: functions/metas/fields/number.php:177
+#: functions/metas/fields/password.php:155
+#: functions/metas/fields/text.php:175
+#@ acf
+msgid "Append"
+msgstr ""
+
+#: functions/metas/fields/email.php:152
+#: functions/metas/fields/number.php:178
+#: functions/metas/fields/password.php:156
+#: functions/metas/fields/text.php:176
+#@ acf
+msgid "Appears after the input"
+msgstr ""
+
+#: functions/metas/fields/file.php:36
+#@ acf
+msgid "File"
+msgstr ""
+
+#: functions/metas/fields/file.php:44
+#@ acf
+msgid "Edit File"
+msgstr ""
+
+#: functions/metas/fields/file.php:45
+#@ acf
+msgid "Update File"
+msgstr ""
+
+#: functions/metas/fields/file.php:46
+#: functions/metas/fields/image.php:47
+#: functions/metas/pro/fields/gallery.php:48
+#@ acf
+msgid "uploaded to this post"
+msgstr ""
+
+#: functions/metas/fields/file.php:109
+#@ data-librarylibrary
+msgid "classclass"
+msgstr ""
+
+#: functions/metas/fields/file.php:111
+#: functions/metas/pro/fields/gallery.php:401
+#@ valuevalue
+#@ value
+msgid "namename"
+msgstr ""
+
+#: functions/metas/fields/file.php:122
+#@ acf
+msgid "File Name"
+msgstr ""
+
+#: functions/metas/fields/file.php:126
+#@ acf
+msgid "File Size"
+msgstr ""
+
+#: functions/metas/fields/file.php:138
+#@ acf
+msgid "No File selected"
+msgstr ""
+
+#: functions/metas/fields/file.php:138
+#@ acf
+msgid "Add File"
+msgstr ""
+
+#: functions/metas/fields/file.php:163
+#: functions/metas/fields/image.php:143
+#: functions/metas/fields/taxonomy.php:649
+#@ acf
+msgid "Return Value"
+msgstr ""
+
+#: functions/metas/fields/file.php:164
+#: functions/metas/fields/image.php:144
+#@ acf
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: functions/metas/fields/file.php:169
+#@ acf
+msgid "File Array"
+msgstr ""
+
+#: functions/metas/fields/file.php:170
+#@ acf
+msgid "File URL"
+msgstr ""
+
+#: functions/metas/fields/file.php:171
+#@ acf
+msgid "File ID"
+msgstr ""
+
+#: functions/metas/fields/file.php:178
+#: functions/metas/fields/image.php:169
+#: functions/metas/pro/fields/gallery.php:556
+#@ acf
+msgid "Library"
+msgstr ""
+
+#: functions/metas/fields/file.php:179
+#: functions/metas/fields/image.php:170
+#: functions/metas/pro/fields/gallery.php:557
+#@ acf
+msgid "Limit the media library choice"
+msgstr ""
+
+#: functions/metas/fields/file.php:185
+#: functions/metas/fields/image.php:176
+#: functions/metas/pro/fields/gallery.php:563
+#@ acf
+msgid "Uploaded to post"
+msgstr ""
+
+#: functions/metas/fields/google-map.php:36
+#@ acf
+msgid "Google Map"
+msgstr ""
+
+#: functions/metas/fields/google-map.php:51
+#@ acf
+msgid "Locating"
+msgstr ""
+
+#: functions/metas/fields/google-map.php:52
+#@ acf
+msgid "Sorry, this browser does not support geolocation"
+msgstr ""
+
+#: functions/metas/fields/google-map.php:135
+#@ acf
+msgid "Clear location"
+msgstr ""
+
+#: functions/metas/fields/google-map.php:142
+#@ acf
+msgid "Find current location"
+msgstr ""
+
+#: functions/metas/fields/google-map.php:145
+#@ acf
+msgid "Search for address..."
+msgstr ""
+
+#: functions/metas/fields/google-map.php:177
+#: functions/metas/fields/google-map.php:188
+#@ acf
+msgid "Center"
+msgstr ""
+
+#: functions/metas/fields/google-map.php:178
+#: functions/metas/fields/google-map.php:189
+#@ acf
+msgid "Center the initial map"
+msgstr ""
+
+#: functions/metas/fields/google-map.php:199
+#@ acf
+msgid "Zoom"
+msgstr ""
+
+#: functions/metas/fields/google-map.php:200
+#@ acf
+msgid "Set the initial zoom level"
+msgstr ""
+
+#: functions/metas/fields/google-map.php:210
+#@ acf
+msgid "Customise the map height"
+msgstr ""
+
+#: functions/metas/fields/image.php:36
+#@ acf
+msgid "Image"
+msgstr ""
+
+#: functions/metas/fields/image.php:45
+#: functions/metas/pro/fields/gallery.php:46
+#@ acf
+msgid "Edit Image"
+msgstr ""
+
+#: functions/metas/fields/image.php:46
+#: functions/metas/pro/fields/gallery.php:47
+#@ acf
+msgid "Update Image"
+msgstr ""
+
+#: functions/metas/fields/image.php:118
+#@ acf
+msgid "No image selected"
+msgstr ""
+
+#: functions/metas/fields/image.php:118
+#@ acf
+msgid "Add Image"
+msgstr ""
+
+#: functions/metas/fields/image.php:149
+#@ acf
+msgid "Image Array"
+msgstr ""
+
+#: functions/metas/fields/image.php:150
+#@ acf
+msgid "Image URL"
+msgstr ""
+
+#: functions/metas/fields/image.php:151
+#@ acf
+msgid "Image ID"
+msgstr ""
+
+#: functions/metas/fields/image.php:158
+#: functions/metas/pro/fields/gallery.php:545
+#@ acf
+msgid "Preview Size"
+msgstr ""
+
+#: functions/metas/fields/image.php:159
+#: functions/metas/pro/fields/gallery.php:546
+#@ acf
+msgid "Shown when entering data"
+msgstr ""
+
+#: functions/metas/fields/message.php:36
+#: functions/metas/fields/message.php:84
+#: functions/metas/fields/true_false.php:106
+#@ acf
+msgid "Message"
+msgstr ""
+
+#: functions/metas/fields/message.php:85
+#@ acf
+msgid "Please note that all text will first be passed through the wp function "
+msgstr ""
+
+#: functions/metas/fields/number.php:36
+#@ acf
+msgid "Number"
+msgstr ""
+
+#: functions/metas/fields/number.php:186
+#@ acf
+msgid "Minimum Value"
+msgstr ""
+
+#: functions/metas/fields/number.php:195
+#@ acf
+msgid "Maximum Value"
+msgstr ""
+
+#: functions/metas/fields/number.php:204
+#@ acf
+msgid "Step Size"
+msgstr ""
+
+#: functions/metas/fields/number.php:242
+#@ acf
+msgid "Value must be a number"
+msgstr ""
+
+#: functions/metas/fields/number.php:260
+#, php-format
+#@ acf
+msgid "Value must be equal to or higher than %d"
+msgstr ""
+
+#: functions/metas/fields/number.php:268
+#, php-format
+#@ acf
+msgid "Value must be equal to or lower than %d"
+msgstr ""
+
+#: functions/metas/fields/oembed.php:36
+#@ acf
+msgid "oEmbed"
+msgstr ""
+
+#: functions/metas/fields/oembed.php:199
+#@ acf
+msgid "Enter URL"
+msgstr ""
+
+#: functions/metas/fields/oembed.php:214
+#@ acf
+msgid "No embed found for the given URL"
+msgstr ""
+
+#: functions/metas/fields/oembed.php:250
+#: functions/metas/fields/oembed.php:260
+#@ acf
+msgid "Embed Size"
+msgstr ""
+
+#: functions/metas/fields/page_link.php:215
+#@ acf
+msgid "Archives"
+msgstr ""
+
+#: functions/metas/fields/page_link.php:489
+#: functions/metas/fields/post_object.php:427
+#: functions/metas/fields/relationship.php:713
+#@ acf
+msgid "Filter by Post Type"
+msgstr ""
+
+#: functions/metas/fields/page_link.php:497
+#: functions/metas/fields/post_object.php:435
+#: functions/metas/fields/relationship.php:721
+#@ acf
+msgid "All post types"
+msgstr ""
+
+#: functions/metas/fields/page_link.php:503
+#: functions/metas/fields/post_object.php:441
+#: functions/metas/fields/relationship.php:727
+#@ acf
+msgid "Filter by Taxonomy"
+msgstr ""
+
+#: functions/metas/fields/page_link.php:511
+#: functions/metas/fields/post_object.php:449
+#: functions/metas/fields/relationship.php:735
+#@ acf
+msgid "No taxonomy filter"
+msgstr ""
+
+#: functions/metas/fields/page_link.php:517
+#: functions/metas/fields/post_object.php:455
+#: functions/metas/fields/select.php:389
+#: functions/metas/fields/taxonomy.php:625
+#: functions/metas/fields/user.php:340
+#@ acf
+msgid "Allow Null?"
+msgstr ""
+
+#: functions/metas/fields/page_link.php:531
+#: functions/metas/fields/post_object.php:469
+#: functions/metas/fields/select.php:403
+#: functions/metas/fields/user.php:354
+#@ acf
+msgid "Select multiple values?"
+msgstr ""
+
+#: functions/metas/fields/post_object.php:36
+#: functions/metas/fields/post_object.php:488
+#: functions/metas/fields/relationship.php:788
+#@ acf
+msgid "Post Object"
+msgstr ""
+
+#: functions/metas/fields/post_object.php:483
+#: functions/metas/fields/relationship.php:783
+#@ acf
+msgid "Return Format"
+msgstr ""
+
+#: functions/metas/fields/post_object.php:489
+#: functions/metas/fields/relationship.php:789
+#@ acf
+msgid "Post ID"
+msgstr ""
+
+#: functions/metas/fields/radio.php:36
+#@ acf
+msgid "Radio Button"
+msgstr ""
+
+#: functions/metas/fields/radio.php:202
+#@ acf
+msgid "Other"
+msgstr ""
+
+#: functions/metas/fields/radio.php:206
+#@ acf
+msgid "Add 'other' choice to allow for custom values"
+msgstr ""
+
+#: functions/metas/fields/radio.php:212
+#@ acf
+msgid "Save Other"
+msgstr ""
+
+#: functions/metas/fields/radio.php:216
+#@ acf
+msgid "Save 'other' values to the field's choices"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:36
+#@ acf
+msgid "Relationship"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:47
+#@ acf
+msgid "Maximum values reached ( {max} values )"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:48
+#@ acf
+msgid "Loading"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:49
+#@ acf
+msgid "No matches found"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:605
+#@ acf
+msgid "Search..."
+msgstr ""
+
+#: functions/metas/fields/relationship.php:614
+#@ acf
+msgid "Select post type"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:627
+#@ acf
+msgid "Select taxonomy"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:746
+#@ acf
+msgid "Search"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:748
+#: functions/metas/fields/taxonomy.php:36
+#: functions/metas/fields/taxonomy.php:596
+#@ acf
+msgid "Taxonomy"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:755
+#@ acf
+msgid "Elements"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:756
+#@ acf
+msgid "Selected elements will be displayed in each result"
+msgstr ""
+
+#: functions/metas/fields/relationship.php:774
+#@ acf
+msgid "Maximum posts"
+msgstr ""
+
+#: functions/metas/fields/select.php:36
+#: functions/metas/fields/select.php:160
+#: functions/metas/fields/taxonomy.php:617
+#@ acf
+msgid "Select"
+msgstr ""
+
+#: functions/metas/fields/select.php:417
+#@ acf
+msgid "Stylised UI"
+msgstr ""
+
+#: functions/metas/fields/select.php:431
+#@ acf
+msgid "Use AJAX to lazy load choices?"
+msgstr ""
+
+#: functions/metas/fields/tab.php:36
+#@ acf
+msgid "Tab"
+msgstr ""
+
+#: functions/metas/fields/tab.php:83
+#@ acf
+msgid "Warning"
+msgstr ""
+
+#: functions/metas/fields/tab.php:88
+#@ acf
+msgid "The tab field will display incorrectly when added to a Table style repeater field or flexible content field layout"
+msgstr ""
+
+#: functions/metas/fields/tab.php:102
+#@ acf
+msgid "Use \"Tab Fields\" to better organize your edit screen by grouping fields together."
+msgstr ""
+
+#: functions/metas/fields/tab.php:104
+#@ acf
+msgid "All fields following this \"tab field\" (or until another \"tab field\" is defined) will be grouped together using this field's label as the tab heading."
+msgstr ""
+
+#: functions/metas/fields/taxonomy.php:565
+#@ acf
+msgid "None"
+msgstr ""
+
+#: functions/metas/fields/taxonomy.php:611
+#@ acf
+msgid "Multiple Values"
+msgstr ""
+
+#: functions/metas/fields/taxonomy.php:613
+#@ acf
+msgid "Multi Select"
+msgstr ""
+
+#: functions/metas/fields/taxonomy.php:615
+#@ acf
+msgid "Single Value"
+msgstr ""
+
+#: functions/metas/fields/taxonomy.php:616
+#@ acf
+msgid "Radio Buttons"
+msgstr ""
+
+#: functions/metas/fields/taxonomy.php:639
+#@ acf
+msgid "Load & Save Terms to Post"
+msgstr ""
+
+#: functions/metas/fields/taxonomy.php:643
+#@ acf
+msgid "Load value based on the post's terms and update the post's terms on save"
+msgstr ""
+
+#: functions/metas/fields/taxonomy.php:654
+#@ acf
+msgid "Term Object"
+msgstr ""
+
+#: functions/metas/fields/taxonomy.php:655
+#@ acf
+msgid "Term ID"
+msgstr ""
+
+#: functions/metas/fields/text.php:36
+#@ acf
+msgid "Text"
+msgstr ""
+
+#: functions/metas/fields/text.php:184
+#: functions/metas/fields/textarea.php:163
+#@ acf
+msgid "Character Limit"
+msgstr ""
+
+#: functions/metas/fields/text.php:185
+#: functions/metas/fields/textarea.php:164
+#@ acf
+msgid "Leave blank for no limit"
+msgstr ""
+
+#: functions/metas/fields/textarea.php:36
+#@ acf
+msgid "Text Area"
+msgstr ""
+
+#: functions/metas/fields/textarea.php:172
+#@ acf
+msgid "Rows"
+msgstr ""
+
+#: functions/metas/fields/textarea.php:173
+#@ acf
+msgid "Sets the textarea height"
+msgstr ""
+
+#: functions/metas/fields/textarea.php:182
+#@ acf
+msgid "New Lines"
+msgstr ""
+
+#: functions/metas/fields/textarea.php:183
+#@ acf
+msgid "Controls how new lines are rendered"
+msgstr ""
+
+#: functions/metas/fields/textarea.php:187
+#@ acf
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: functions/metas/fields/textarea.php:188
+#@ acf
+msgid "Automatically add &lt;br&gt;"
+msgstr ""
+
+#: functions/metas/fields/textarea.php:189
+#@ acf
+msgid "No Formatting"
+msgstr ""
+
+#: functions/metas/fields/true_false.php:36
+#@ acf
+msgid "True / False"
+msgstr ""
+
+#: functions/metas/fields/true_false.php:107
+#@ acf
+msgid "eg. Show extra content"
+msgstr ""
+
+#: functions/metas/fields/url.php:36
+#@ acf
+msgid "Url"
+msgstr ""
+
+#: functions/metas/fields/url.php:160
+#@ acf
+msgid "Value must be a valid URL"
+msgstr ""
+
+#: functions/metas/fields/user.php:325
+#@ acf
+msgid "Filter by role"
+msgstr ""
+
+#: functions/metas/fields/user.php:333
+#@ acf
+msgid "All user roles"
+msgstr ""
+
+#: functions/metas/fields/wysiwyg.php:37
+#@ acf
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: functions/metas/fields/wysiwyg.php:297
+#@ default
+msgctxt "Name for the Text editor tab (formerly HTML)"
+msgid "Text"
+msgstr ""
+
+#: functions/metas/fields/wysiwyg.php:298
+#@ default
+msgid "Visual"
+msgstr ""
+
+#: functions/metas/fields/wysiwyg.php:354
+#@ acf
+msgid "Tabs"
+msgstr ""
+
+#: functions/metas/fields/wysiwyg.php:359
+#@ acf
+msgid "Visual & Text"
+msgstr ""
+
+#: functions/metas/fields/wysiwyg.php:360
+#@ acf
+msgid "Visual Only"
+msgstr ""
+
+#: functions/metas/fields/wysiwyg.php:361
+#@ acf
+msgid "Text Only"
+msgstr ""
+
+#: functions/metas/fields/wysiwyg.php:368
+#@ acf
+msgid "Toolbar"
+msgstr ""
+
+#: functions/metas/fields/wysiwyg.php:378
+#@ acf
+msgid "Show Media Upload Buttons?"
+msgstr ""
+
+#: functions/metas/pro/acf-pro.php:24
+#@ acf
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: functions/metas/pro/acf-pro.php:149
+#@ acf
+msgid "Flexible Content requires at least 1 layout"
+msgstr ""
+
+#: functions/metas/pro/acf-pro.php:418
+#@ acf
+msgid "Column Width"
+msgstr ""
+
+#: functions/metas/pro/admin/connect.php:167
+#, php-format
+#@ acf
+msgid "To enable updates, please enter your license key on the <a href=\"%s\">Updates</a> page. If you don't have a licence key, please see <a href=\"%s\">details & pricing</a>"
+msgstr ""
+
+#: functions/metas/pro/admin/options-page.php:55
+#@ acf
+msgid "Options Page"
+msgstr ""
+
+#: functions/metas/pro/admin/options-page.php:90
+#@ acf
+msgid "No options pages exist"
+msgstr ""
+
+#: functions/metas/pro/admin/options-page.php:290
+#@ acf
+msgid "Options Updated"
+msgstr ""
+
+#: functions/metas/pro/admin/options-page.php:298
+#@ acf
+msgid "No Custom Field Groups found for this options page"
+msgstr ""
+
+#: functions/metas/pro/admin/options-page.php:298
+#@ acf
+msgid "Create a Custom Field Group"
+msgstr ""
+
+#: functions/metas/pro/admin/settings-updates.php:115
+#@ acf
+msgid "<b>Error</b>. Could not connect to update server"
+msgstr ""
+
+#: functions/metas/pro/admin/settings-updates.php:245
+#: functions/metas/pro/admin/settings-updates.php:312
+#@ acf
+msgid "<b>Connection Error</b>. Sorry, please try again"
+msgstr ""
+
+#: functions/metas/pro/admin/views/options-page.php:58
+#@ acf
+msgid "Save Options"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:11
+#@ acf
+msgid "Deactivate License"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:11
+#@ acf
+msgid "Activate License"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:21
+#@ acf
+msgid "License"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:24
+#@ acf
+msgid "To unlock updates, please enter your license key below. If you don't have a licence key, please see"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:24
+#@ acf
+msgid "details & pricing"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:33
+#@ acf
+msgid "License Key"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:65
+#@ acf
+msgid "Update Information"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:72
+#@ acf
+msgid "Current Version"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:80
+#@ acf
+msgid "Latest Version"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:88
+#@ acf
+msgid "Update Available"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:96
+#@ acf
+msgid "Update Plugin"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:98
+#@ acf
+msgid "Please enter your license key above to unlock updates"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:102
+#@ acf
+msgid "Check Again"
+msgstr ""
+
+#: functions/metas/pro/admin/views/settings-updates.php:119
+#@ acf
+msgid "Upgrade Notice"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:36
+#@ acf
+msgid "Flexible Content"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:42
+#: functions/metas/pro/fields/repeater.php:43
+#@ acf
+msgid "Add Row"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:45
+#@ acf
+msgid "layout"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:46
+#@ acf
+msgid "layouts"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:47
+#@ acf
+msgid "remove {layout}?"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:48
+#@ acf
+msgid "This field requires at least {min} {identifier}"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:49
+#@ acf
+msgid "This field has a limit of {max} {identifier}"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:50
+#@ acf
+msgid "This field requires at least {min} {label} {identifier}"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:51
+#@ acf
+msgid "Maximum {label} limit reached ({max} {identifier})"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:52
+#@ acf
+msgid "{available} {label} {identifier} available (max {max})"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:53
+#@ acf
+msgid "{required} {label} {identifier} required (min {min})"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:210
+#@ data-minmin
+msgid "classacf-flexible-content"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:213
+#, php-format
+#@ acf
+msgid "Click the \"%s\" button below to start creating your layout"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:334
+#@ acf
+msgid "Add layout"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:339
+#@ acf
+msgid "Remove layout"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:495
+#@ acf
+msgid "Reorder Layout"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:495
+#@ acf
+msgid "Reorder"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:496
+#@ acf
+msgid "Delete Layout"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:497
+#@ acf
+msgid "Duplicate Layout"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:498
+#@ acf
+msgid "Add New Layout"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:548
+#@ acf
+msgid "Display"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:559
+#: functions/metas/pro/fields/repeater.php:402
+#@ acf
+msgid "Block"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:560
+#: functions/metas/pro/fields/repeater.php:401
+#@ acf
+msgid "Table"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:575
+#@ acf
+msgid "Min"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:588
+#@ acf
+msgid "Max"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:619
+#: functions/metas/pro/fields/repeater.php:409
+#@ acf
+msgid "Button Label"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:628
+#@ acf
+msgid "Minimum Layouts"
+msgstr ""
+
+#: functions/metas/pro/fields/flexible-content.php:637
+#@ acf
+msgid "Maximum Layouts"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:36
+#@ acf
+msgid "Gallery"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:45
+#@ acf
+msgid "Add Image to Gallery"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:49
+#@ acf
+msgid "Maximum selection reached"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:309
+#@ acf
+msgid "Attachment Details"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:459
+#@ acf
+msgid "Add to gallery"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:463
+#@ acf
+msgid "Bulk actions"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:464
+#@ acf
+msgid "Sort by date uploaded"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:465
+#@ acf
+msgid "Sort by date modified"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:466
+#@ acf
+msgid "Sort by title"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:467
+#@ acf
+msgid "Reverse current order"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:525
+#@ acf
+msgid "Minimum Selection"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:535
+#@ acf
+msgid "Maximum Selection"
+msgstr ""
+
+#: functions/metas/pro/fields/gallery.php:718
+#, php-format
+#@ acf
+msgid "%s requires at least %s selection"
+msgid_plural "%s requires at least %s selections"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/metas/pro/fields/repeater.php:36
+#@ acf
+msgid "Repeater"
+msgstr ""
+
+#: functions/metas/pro/fields/repeater.php:46
+#@ acf
+msgid "Minimum rows reached ({min} rows)"
+msgstr ""
+
+#: functions/metas/pro/fields/repeater.php:47
+#@ acf
+msgid "Maximum rows reached ({max} rows)"
+msgstr ""
+
+#: functions/metas/pro/fields/repeater.php:206
+#@ data-minmin
+msgid "classacf-repeater"
+msgstr ""
+
+#: functions/metas/pro/fields/repeater.php:207
+#@ redux-framework
+msgid "classlayout"
+msgstr ""
+
+#: functions/metas/pro/fields/repeater.php:254
+#@ acf
+msgid "Drag to reorder"
+msgstr ""
+
+#: functions/metas/pro/fields/repeater.php:302
+#@ acf
+msgid "Add row"
+msgstr ""
+
+#: functions/metas/pro/fields/repeater.php:303
+#@ acf
+msgid "Remove row"
+msgstr ""
+
+#: functions/metas/pro/fields/repeater.php:352
+#@ acf
+msgid "Sub Fields"
+msgstr ""
+
+#: functions/metas/pro/fields/repeater.php:374
+#@ acf
+msgid "Minimum Rows"
+msgstr ""
+
+#: functions/metas/pro/fields/repeater.php:384
+#@ acf
+msgid "Maximum Rows"
+msgstr ""
+
+#: includes/theme-post-types.php:19
+#@ default
+msgctxt "pornstars"
+msgid "Pornstar"
+msgstr ""
+
+#: includes/theme-post-types.php:20
+#: includes/theme-post-types.php:30
+#@ default
+msgctxt "pornstars"
+msgid "Pornstars"
+msgstr ""
+
+#: includes/theme-post-types.php:21
+#@ default
+msgctxt "pornstars"
+msgid "Adicionar Nova"
+msgstr ""
+
+#: includes/theme-post-types.php:22
+#@ default
+msgctxt "pornstars"
+msgid "Adicionar Nova Pornstar"
+msgstr ""
+
+#: includes/theme-post-types.php:23
+#@ default
+msgctxt "pornstars"
+msgid "Editar Pornstar"
+msgstr ""
+
+#: includes/theme-post-types.php:24
+#@ default
+msgctxt "pornstars"
+msgid "Nova Pornstar"
+msgstr ""
+
+#: includes/theme-post-types.php:25
+#@ default
+msgctxt "pornstars"
+msgid "Visualizar Pornstar"
+msgstr ""
+
+#: includes/theme-post-types.php:26
+#@ default
+msgctxt "pornstars"
+msgid "Buscar Pornstar"
+msgstr ""
+
+#: includes/theme-post-types.php:27
+#@ default
+msgctxt "pornstars"
+msgid "Não encontrado"
+msgstr ""
+
+#: includes/theme-post-types.php:28
+#@ default
+msgctxt "pornstars"
+msgid "Não encontrado na lixeira"
+msgstr ""
+
+#: includes/theme-post-types.php:29
+#@ default
+msgctxt "pornstars"
+msgid "Parent Pornstars:"
+msgstr ""
+
+#: includes/theme-post-types.php:67
+#@ default
+msgid "Foto da pornstar"
+msgstr ""
+
+#: includes/theme-post-types.php:70
+#@ default
+msgid "Capa vídeo"
+msgstr ""
+
+#: includes/theme-post-types.php:85
+#: includes/theme-post-types.php:99
+#@ default
+msgctxt "letras"
+msgid "Letras"
+msgstr ""
+
+#: includes/theme-post-types.php:86
+#@ default
+msgctxt "letras"
+msgid "Letra"
+msgstr ""
+
+#: includes/theme-post-types.php:87
+#@ default
+msgctxt "letras"
+msgid "Buscar Letras"
+msgstr ""
+
+#: includes/theme-post-types.php:88
+#@ default
+msgctxt "letras"
+msgid "Letras populares"
+msgstr ""
+
+#: includes/theme-post-types.php:89
+#@ default
+msgctxt "letras"
+msgid "Todas Letras"
+msgstr ""
+
+#: includes/theme-post-types.php:90
+#@ default
+msgctxt "letras"
+msgid "Parent Letra"
+msgstr ""
+
+#: includes/theme-post-types.php:91
+#@ default
+msgctxt "letras"
+msgid "Parent Letra:"
+msgstr ""
+
+#: includes/theme-post-types.php:92
+#@ default
+msgctxt "letras"
+msgid "Editar Letra"
+msgstr ""
+
+#: includes/theme-post-types.php:93
+#@ default
+msgctxt "letras"
+msgid "Atualizar Letra"
+msgstr ""
+
+#: includes/theme-post-types.php:94
+#@ default
+msgctxt "letras"
+msgid "Adicionar Nova Letra"
+msgstr ""
+
+#: includes/theme-post-types.php:95
+#@ default
+msgctxt "letras"
+msgid "Nova Letra"
+msgstr ""
+
+#: includes/theme-post-types.php:96
+#@ default
+msgctxt "letras"
+msgid "Separate letras with commas"
+msgstr ""
+
+#: includes/theme-post-types.php:97
+#@ default
+msgctxt "letras"
+msgid "Adicionar ou Remover Letra"
+msgstr ""
+
+#: includes/theme-post-types.php:98
+#@ default
+msgctxt "letras"
+msgid "Escolha entre as letras mais usadas"
+msgstr ""
+
+#: index.php:192
+#@ default
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+

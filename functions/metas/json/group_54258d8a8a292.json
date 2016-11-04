@@ -1,0 +1,213 @@
+{
+    "key": "group_54258d8a8a292",
+    "title": "Informa\u00e7\u00f5es Post",
+    "fields": [
+        {
+            "key": "field_5480c0fdc0a35",
+            "label": "Este post \u00e9 um post patrocinado",
+            "name": "modo_patrocionado",
+            "prefix": "",
+            "type": "true_false",
+            "instructions": "Marque se este post ser\u00e1 um post patrocinado",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Ativar post patrocionado",
+            "default_value": 0
+        },
+        {
+            "key": "field_5431172ea287f",
+            "label": "Informa\u00e7\u00f5es",
+            "name": "",
+            "prefix": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "key": "field_5425b81c98342",
+            "label": "Incorporar",
+            "name": "embed",
+            "prefix": "",
+            "type": "text",
+            "instructions": "Insira o embed do v\u00eddeo. <u>Suporta shortcodes<\/u>",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "<iframe src=\"#\" frameborder=\"0\"  scrolling=\"no\"><\/iframe>",
+            "prepend": "",
+            "append": "",
+            "maxlength": "",
+            "readonly": 0,
+            "disabled": 0
+        },
+        {
+            "key": "field_54259d1f563ea",
+            "label": "Dura\u00e7\u00e3o",
+            "name": "duration",
+            "prefix": "",
+            "type": "text",
+            "instructions": "Tempo do v\u00eddeo",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "15:30",
+            "prepend": "",
+            "append": "",
+            "maxlength": "",
+            "readonly": 0,
+            "disabled": 0
+        },
+        {
+            "key": "field_5425b80398341",
+            "label": "Capa Externa",
+            "name": "capa_externa",
+            "prefix": "",
+            "type": "url",
+            "instructions": "Insira a URL da capa do v\u00eddeo externa caso decida n\u00e3o usar a op\u00e7\u00e3o de imagem destacada",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "http:\/\/"
+        },
+        {
+            "key": "field_54259d33563eb",
+            "label": "V\u00eddeo HD",
+            "name": "video_hd",
+            "prefix": "",
+            "type": "true_false",
+            "instructions": "Marque se este v\u00eddeo est\u00e1 em HD",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "Esse v\u00eddeo \u00e9 HD",
+            "default_value": 0
+        },
+        {
+            "key": "field_5431171b59c01",
+            "label": "Modelos",
+            "name": "",
+            "prefix": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "key": "field_54258e1064a5c",
+            "label": "Modelos",
+            "name": "models",
+            "prefix": "",
+            "type": "relationship",
+            "instructions": "Marque as pornstars relacionadas ao v\u00eddeo (opcional)<br>\r\n<small>Voc\u00ea pode criar novas modelos no menu Pornstars<\/small>",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "post_type": [
+                "pornstars"
+            ],
+            "taxonomy": "",
+            "filters": [
+                "search"
+            ],
+            "elements": [
+                "featured_image"
+            ],
+            "max": "",
+            "return_format": "object"
+        },
+        {
+            "key": "field_5480c0eac0a34",
+            "label": "Post Patrocinado Informa\u00e7\u00f5es",
+            "name": "",
+            "prefix": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_5480c0fdc0a35",
+                        "operator": "==",
+                        "value": "1"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "key": "field_5480c136c0a36",
+            "label": "URL Patrocinada",
+            "name": "url_patrocionada",
+            "prefix": "",
+            "type": "url",
+            "instructions": "Insira a URL completa de direcionamento do post",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "http:\/\/"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": ""
+}

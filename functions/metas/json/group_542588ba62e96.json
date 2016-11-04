@@ -1,0 +1,89 @@
+{
+    "key": "group_542588ba62e96",
+    "title": "Pornstars Informa\u00e7\u00f5es",
+    "fields": [
+        {
+            "key": "field_542a57788d047",
+            "label": "Conte\u00fado Destaque",
+            "name": "",
+            "prefix": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "key": "field_542a57988d049",
+            "label": "Conte\u00fado Destaque (opcional)",
+            "name": "featured_content",
+            "prefix": "",
+            "type": "wysiwyg",
+            "instructions": "Voc\u00ea pode inserir um conte\u00fado destaque para a pornstar, esse conte\u00fado vir\u00e1 antes do nome da modelo. <small>Para c\u00f3digos html use a aba Texto<\/small>",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 1
+        },
+        {
+            "key": "field_542a578c8d048",
+            "label": "Descri\u00e7\u00e3o Pornstar",
+            "name": "",
+            "prefix": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            }
+        },
+        {
+            "key": "field_54258a3587384",
+            "label": "Descri\u00e7\u00e3o pornstar (opcional)",
+            "name": "description_pornstar",
+            "prefix": "",
+            "type": "wysiwyg",
+            "instructions": "Insira uma descri\u00e7\u00e3o para a pornstar, como idade, tempo de atua\u00e7\u00e3o, etc... (opcional)",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "visual",
+            "toolbar": "basic",
+            "media_upload": 1
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "pornstars"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": ""
+}

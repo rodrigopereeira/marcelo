@@ -1,0 +1,2 @@
+<?php
+ if ( ! class_exists( 'Redux_Validation_preg_replace' ) ) { class Redux_Validation_preg_replace { function __construct( $parent, $field, $value, $current ) { $this->parent = $parent; $this->field = $field; $this->value = $value; $this->current = $current; $this->validate(); } function validate() { $this->value = preg_replace( $this->field['preg']['pattern'], $this->field['preg']['replacement'], $this->value ); } } }
